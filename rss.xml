@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Reservoir Geomechanics</title><link>/</link><description>Course webpage</description><atom:link href="/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Thu, 01 Jan 2015 20:32:06 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Welcome!</title><link>/posts/welcome.html</link><dc:creator>John T. Foster</dc:creator><description>&lt;!--
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Reservoir Geomechanics</title><link>/</link><description>Course webpage</description><atom:link href="/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Fri, 02 Jan 2015 03:30:55 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Welcome!</title><link>/posts/welcome.html</link><dc:creator>John T. Foster</dc:creator><description>&lt;!--
 .. title: Welcome!
 .. slug: welcome
 .. date: 2015-01-01 20:00:00 UTC-05:00
@@ -8,4 +8,5 @@
 .. description: 
 .. type: text
 --&gt;
+
 &lt;p&gt;Welcome to the course webpage for &lt;em&gt;PGE 334 - Reservoir Geomechanics&lt;/em&gt; taught in the &lt;a href="https://www.pge.utexas.edu/"&gt;Petroleum and Geosystems Engineering Department&lt;/a&gt; at &lt;a href="https://www.utexas.edu"&gt;The University of Texas at Austin&lt;/a&gt;. The course syllabus is available at &lt;a href="/syllabus/"&gt;here&lt;/a&gt; and on the navigation bar at the top of the page as well. Soon, there will be assignments posted here as well as additional reference material for the class. Please check this page frequently.&lt;/p&gt;</description><guid>/posts/welcome.html</guid><pubDate>Fri, 02 Jan 2015 01:00:00 GMT</pubDate></item></channel></rss>
