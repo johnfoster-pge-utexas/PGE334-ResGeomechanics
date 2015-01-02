@@ -15,6 +15,10 @@
 **Email:** [jfoster@austin.utexas.edu](mailto:jfoster@austin.utexas.com)
 
 
+More coming soon!
+
+
+<!--
 **Class Location:** CPE 2.202 \
 **Class Time:** TTH 9:30 - 11:00 AM \
 **Office Hours:** TTH 11:00-12:00 and by appointment
@@ -87,3 +91,5 @@ Below is a general outline of what I intend to cover in the course.  This is sub
 \
 
 **Disability Statement:** The University of Austin provides upon request appropriate academic accommodations for qualified students with disabilities. For more information, contact the Office of the Dean of Students at 512-471-6259 or see <a href="https://www.utexas.edu/diversity/ddce/ssd/" target="_blank">https://www.utexas.edu/diversity/ddce/ssd/</a> for more information.
+
+-->
