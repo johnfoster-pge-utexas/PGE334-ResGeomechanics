@@ -1,12 +1,12 @@
 <!--
 .. title: Syllabus
 .. slug: index
-.. date: 2014-08-10 21:40:03 UTC-05:00
+.. date: 2015-01-01 20:00:00 UTC-05:00
 .. template: notitle.tmpl
-.. description: PGE 383 - Advanced Geomechanics syllabus page
+.. description: PGE 334 - Reservoir Geomechanics syllabus page
 -->
 
-## PGE 383 - Advanced Geomechanics (Unique #20034)
+## PGE 334 - Reservoir Geomechanics (Unique #20034)
 
 
 **Instructor:** John T. Foster, Ph.D. \
