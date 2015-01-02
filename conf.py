@@ -769,4 +769,4 @@ LOGGING_HANDLERS = {
 
 # Put in global_context things you want available on all your templates.
 # It can be anything, data, functions, modules, etc.
-GLOBAL_CONTEXT = {}d
+GLOBAL_CONTEXT = {}
