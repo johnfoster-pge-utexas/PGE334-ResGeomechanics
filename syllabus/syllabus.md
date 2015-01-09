@@ -17,7 +17,7 @@
 
 **Class (Lecture) Location:** CPE 2.204 \
 **Class (Lecture) Time:** TTH 9:30 - 11:00 AM \
-**Office Hours:** TTH 11:00-12:00 and by appointment (see [Calendar](http://johnfoster.pge.utexas.edu/calendar/))
+**Office Hours:** TTH 11:00-12:00 and by appointment (see <a href="http://johnfoster.pge.utexas.edu/calendar/" target="_blank">Calendar</a>)
 
 
 **Laboratory Location:** CPE 1.168 \
@@ -33,6 +33,7 @@
 |19010  | Monday    | 4:00 - 6:00 PM |
 |19015  | Wednesday | 4:00 - 6:00 PM |
 
+\
 
 **Course Website:** <https://utexas.instructure.com/courses/1134284> \
 
@@ -70,24 +71,24 @@ Below is a general outline of what I intend to cover in the course.  This is sub
 
 | Week            | Topic               | Notes     |
 |-----------------|---------------------|-----------|
-| Jan. 20, 22     | Introduction        |           |
-| Jan. 27, 29     | Kinematics & Strain |           |
-| Feb. 3, 5       | Stress              |           |
-| Feb. 10, 12     | Governing Equations of Solid Mechanics |  |
-| Feb. 17, 19     | Infinitesimal Elasticity Constitutive Theory  |  |
-| Feb. 24, 26     | Infinitesimal Plasticity Constitutive Theory  |  |
-| Mar. 3, 5       | Governing Equations of Poroelasticty |  |
-| Mar. 10, 12     | **Midterm Exam**, Introduction to FEM  | |
-| Mar. 17, 19     | Spring Break | |
-| Mar. 24, 26     | Element Formulations | |
-| Mar. 31, Apr. 2 | Isoparametric Elements and Gauss Integration | |
-| Apr. 7, 9       | Plane Poroelasticity FE formulation | |
-| Apr. 14, 16     | Coupled Solution Techniques | |
-| Apr. 21, 23     | Plasticity Return Algorithms & Consistent Tangent Moduli| |
-| Apr. 28, 30     | Mixed Finite Element formulation | |
-| May. 5, 7       | Final Exam | |
+| Jan. 20, 22     | | |
+| Jan. 27, 29     | | |
+| Feb. 3, 5       | | |
+| Feb. 10, 12     | | |
+| Feb. 17, 19     | | |
+| Feb. 24, 26     | | |
+| Mar. 3, 5       | | |
+| Mar. 10, 12     | | |
+| Mar. 17, 19     | | |
+| Mar. 24, 26     | | |
+| Mar. 31, Apr. 2 | | |
+| Apr. 7, 9       | | |
+| Apr. 14, 16     | | |
+| Apr. 21, 23     | | |
+| Apr. 28, 30     | | |
+| May. 5, 7       | | |
 | May. 18         | **Final Exam** | |
 
-
+\
 
 **Disability Statement:** The University of Austin provides upon request appropriate academic accommodations for qualified students with disabilities. For more information, contact the Office of the Dean of Students at 512-471-6259 or see <a href="https://www.utexas.edu/diversity/ddce/ssd/" target="_blank">https://www.utexas.edu/diversity/ddce/ssd/</a> for more information.
