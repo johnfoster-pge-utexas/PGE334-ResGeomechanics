@@ -1,12 +1,12 @@
 <!--
 .. title: Syllabus
 .. slug: index
-.. date: 2015-01-01 20:00:00 UTC-05:00
+.. date: 2015-01-08 20:00:00 UTC-05:00
 .. template: notitle.tmpl
 .. description: PGE 334 - Reservoir Geomechanics syllabus page
 -->
 
-## PGE 334 - Reservoir Geomechanics (Unique #20034)
+## PGE 334 - Reservoir Geomechanics 
 
 
 **Instructor:** John T. Foster, Ph.D. \
@@ -15,53 +15,53 @@
 **Email:** [jfoster@austin.utexas.edu](mailto:jfoster@austin.utexas.com)
 
 
-More coming soon!
+**Class (Lecture) Location:** CPE 2.204 \
+**Class (Lecture) Time:** TTH 9:30 - 11:00 AM \
+**Office Hours:** TTH 11:00-12:00 and by appointment (see [Calendar](http://johnfoster.pge.utexas.edu/calendar/))
 
 
-<!--
-**Class Location:** CPE 2.202 \
-**Class Time:** TTH 9:30 - 11:00 AM \
-**Office Hours:** TTH 11:00-12:00 and by appointment
+**Laboratory Location:** CPE 1.168 \
+**Laboratory Times:**
 
 
-**Course Website:** <https://utexas.instructure.com/courses/1119539/> \
+|Unique #| Day | Time |
+|:------:|-----|:----:|
+|18990  | Thursday  | 1:30 - 3:30 PM |
+|18995  | Tuesday   | 1:30 - 3:30 PM |
+|19000  | Tuesday   | 3:30 - 5:30 PM |
+|19005  | Thursday  | 3:30 - 5:30 PM |
+|19010  | Monday    | 4:00 - 6:00 PM |
+|19015  | Wednesday | 4:00 - 6:00 PM |
 
 
-**Course Description**: Formulation, theory, and computer implementation of inelastic finite elements for pressure sensitive and nearly incompressible materials. The targeted physical settings will be the coupled behaviour of pore fluids and deformation of solid materials and the nonlinear elastic-inelastic behaviour of geomaterials.  If time allows, regularization and extended techniques for special treatment of the localization and failure of geomaterials will be discussed. \
+**Course Website:** <https://utexas.instructure.com/courses/1134284> \
 
 
-**Prerequisites:** None.  However, an undergraduate course in solid mechanics and proficiency in a computer programming language is recommended.
+**Course Description**: Basic stress and strain analysis; pore pressure and in situ stress estimation and measurement; deformation mechanisms in rock; rock fracture description and analysis; wellbore stresses and failure; wellbore stability analysis; fault stability analysis; depletion-induced reservoir deformation; and hydraulic fracturing. Emphasis on applications to petroleum engineering. \
+
+
+**Prerequisites:** Engineering Mechanics 319 and Petroleum and Geosystems Engineering 301 with a grade of at least C- in each.
 
 
 **Required Text:** None 
 
+1. <a href="http://www.amazon.com/Reservoir-Geomechanics-Mark-D-Zoback/dp/0521146194/ref=sr_1_1_twi_2?ie=UTF8&qid=1420770522&sr=8-1&keywords=reservoir+geomechanics+zoback" target="_blank">Reservoir Geomechanics</a>. Zoback. 2007.
+
 
 **Additional References:**
-  
-1. <a href="https://www.amazon.com/Computational-Geomechanics-Reference-Earthquake-Engineering/dp/0471982857" target="_blank">Computational Geomechanics: With Special Reference to Earthquake Engineering</a>. Zienkiewicz, Chan, Pastor, Schrefler, and Shiomi. 1999
 
-1. <a href="https://www.amazon.com/Mechanics-Physics-Porous-Solids-Olivier/dp/0470721359/ref=sr_1_fkmr1_1?ie=UTF8&qid=1408120522&sr=8-1-fkmr1&keywords=Coussy%2C+%E2%80%9CMechanics+and+Physics+of+Porous+Solids%E2%80%9D" target="_blank">Mechanics and Physics of Porous Solids</a>. Coussy. 2010.
-
-1. <a href="https://www.amazon.com/Theory-Porous-Media-Highlights-Development/dp/3642640621/ref=sr_1_2?s=books&ie=UTF8&qid=1407806176&sr=1-2&keywords=porous+media+de+boer" target="_blank">Theory of Porous Media: Highlights in Historical Development and Current State</a>. de Boer. 2011.
-
-1. <a href="https://www.amazon.com/Introduction-Mechanics-Continuous-Lawrence-Malvern/dp/0134876032/ref=sr_1_1?s=books&ie=UTF8&qid=1407806319&sr=1-1&keywords=continuum+mechanics+malvern" target="_blank">Introduction to the Mechanics of a Continuous Medium</a>. Malvern. 1977.
-
-1. <a href="https://www.amazon.com/Nonlinear-Finite-Elements-Continua-Structures/dp/1118632702/ref=sr_1_1?s=books&ie=UTF8&qid=1407805797&sr=1-1&keywords=nonlinear+finite+elements+for+continua+and+structures" target="_blank">Nonlinear Finite Elements for Continua and Structures</a>. Belytschko, Liu, Moran, and Elkhodary. 2014
-
-1. <a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=finite%20elements%20reddy" target="_blank">An Introduction to the Finite Element Method</a>. Reddy. 2005.
-
-1. <a href="https://www.amazon.com/Plasticity-Theory-Dover-Books-Engineering/dp/0486462900/ref=sr_1_1?ie=UTF8&qid=1408120240&sr=8-1&keywords=plasticity+lubliner" target="_blank">Plasticity Theory</a>. Lubliner. 2008.
-
-1. <a href="https://www.amazon.com/Computational-Inelasticity-Interdisciplinary-Applied-Mathematics/dp/0387975209/ref=sr_1_1?ie=UTF8&qid=1408120292&sr=8-1&keywords=computational+inelasticity" target="_blank">Computational Inelasticity</a>. Simo and Hughes. 2000.
+1. <a href="http://www.amazon.com/Fundamentals-Rock-Mechanics-John-Jaeger/dp/0632057599/ref=pd_bxgy_b_img_z" target="_blank">Fundamentals of Rock Mechanics</a>. Jaeger, Cook, and Zimmerman. 2007.
 
 
 **Grading Policy:**
 
- * Midterm Exam: 20%
+ * Midterm Exam 1: 20%
+
+ * Midterm Exam 2: 20%
 
  * Final Exam: 20%
 
- * Homeworks and computer projects: 60%
+ * Homeworks, quizzes, lab reports, and computer projects: 40%
 
 
 **Outline**
@@ -70,26 +70,24 @@ Below is a general outline of what I intend to cover in the course.  This is sub
 
 | Week            | Topic               | Notes     |
 |-----------------|---------------------|-----------|
-| Aug. 28         | Introduction        |           |
-| Sept. 2, 4      | Kinematics & Strain |           |
-| Sept. 9, 11     | Stress              |           |
-| Sept. 16, 18    | Governing Equations of Solid Mechanics |  |
-| Sept. 23, 25    | Infinitesimal Elasticity Constitutive Theory  |  |
-| Sept. 30, Oct 2 | Infinitesimal Plasticity Constitutive Theory  |  |
-| Oct. 7, 9       | Governing Equations of Poroelasticty |  |
-| Oct. 14, 16     | **Midterm Exam**, Introduction to FEM  | |
-| Oct. 21, 24     | Strong Form, Weak Form of Governing Equations | |
-| Oct. 28, 30     | Element Formulations | |
-| Nov. 4, 6       | Isoparametric Elements and Gauss Integration | |
-| Nov. 11, 13     | Plane Poroelasticity FE formulation | |
-| Nov. 18, 20     | Coupled Solution Techniques | |
-| Nov. 25         | Plasticity Return Algorithms & Consistent Tangent Moduli| |
-| Dec. 2, 4       | Mixed Finite Element formulation | |
-| Dec. 10         | **Final Exam** | |
+| Jan. 20, 22     | Introduction        |           |
+| Jan. 27, 29     | Kinematics & Strain |           |
+| Feb. 3, 5       | Stress              |           |
+| Feb. 10, 12     | Governing Equations of Solid Mechanics |  |
+| Feb. 17, 19     | Infinitesimal Elasticity Constitutive Theory  |  |
+| Feb. 24, 26     | Infinitesimal Plasticity Constitutive Theory  |  |
+| Mar. 3, 5       | Governing Equations of Poroelasticty |  |
+| Mar. 10, 12     | **Midterm Exam**, Introduction to FEM  | |
+| Mar. 17, 19     | Spring Break | |
+| Mar. 24, 26     | Element Formulations | |
+| Mar. 31, Apr. 2 | Isoparametric Elements and Gauss Integration | |
+| Apr. 7, 9       | Plane Poroelasticity FE formulation | |
+| Apr. 14, 16     | Coupled Solution Techniques | |
+| Apr. 21, 23     | Plasticity Return Algorithms & Consistent Tangent Moduli| |
+| Apr. 28, 30     | Mixed Finite Element formulation | |
+| May. 5, 7       | Final Exam | |
+| May. 18         | **Final Exam** | |
 
 
-\
 
 **Disability Statement:** The University of Austin provides upon request appropriate academic accommodations for qualified students with disabilities. For more information, contact the Office of the Dean of Students at 512-471-6259 or see <a href="https://www.utexas.edu/diversity/ddce/ssd/" target="_blank">https://www.utexas.edu/diversity/ddce/ssd/</a> for more information.
-
--->
