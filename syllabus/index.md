@@ -71,22 +71,22 @@ Below is a general outline of what I intend to cover in the course.  This is sub
 
 | Week            | Topic               | Notes     |
 |-----------------|---------------------|-----------|
-| Jan. 20, 22     | | |
-| Jan. 27, 29     | | |
-| Feb. 3, 5       | | |
-| Feb. 10, 12     | | |
-| Feb. 17, 19     | | |
-| Feb. 24, 26     | | |
-| Mar. 3, 5       | | |
-| Mar. 10, 12     | | |
-| Mar. 17, 19     | | |
-| Mar. 24, 26     | | |
-| Mar. 31, Apr. 2 | | |
-| Apr. 7, 9       | | |
-| Apr. 14, 16     | | |
-| Apr. 21, 23     | | |
-| Apr. 28, 30     | | |
-| May. 5, 7       | | |
+| Jan. 20, 22     | structural geology, fault classification | |
+| Jan. 27, 29     | tectonic stress, stress tensor  | |
+| Feb. 3, 5       | principle stresses,  pore pressure | |
+| Feb. 10, 12     | stress resolution | |
+| Feb. 17, 19     | **Midterm Exam 1**, constitutive laws | |
+| Feb. 24, 26     | constitutive laws | |
+| Mar. 3, 5       | rock failure | |
+| Mar. 10, 12     | rock failure | |
+| Mar. 17, 19     | **Spring Break** | |
+| Mar. 24, 26     | wellbore failure, stability, design | |
+| Mar. 31, Apr. 2 | wellbore failure, stability, design | |
+| Apr. 7, 9       | **Midterm Exam 2**, reservoir depletion | |
+| Apr. 14, 16     | reservoir depletion | |
+| Apr. 21, 23     | hydraulic fracturing | |
+| Apr. 28, 30     | hydraulic fracturing | |
+| May. 5, 7       | induced seismicity | |
 | May. 18         | **Final Exam** | |
 
 \
