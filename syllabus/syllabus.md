@@ -15,9 +15,8 @@
 **Email:** [jfoster@austin.utexas.edu](mailto:jfoster@austin.utexas.com)
 
 
-**Teaching Assistants:** \
-Mahdi Haddad [mahdi.haddad at utexas.edu](mailto:mahdi.haddad@utexas.edu) \
-Javad Rashidi [j.nrashidi at googlemail.com](mailto:j.nrashidi@googlemail.com)
+**Teaching Assistant:** Mahdi Haddad [mahdi.haddad at utexas.edu](mailto:mahdi.haddad@utexas.edu) \
+**Teaching Assistant:** Javad Rashidi [j.nrashidi at googlemail.com](mailto:j.nrashidi@googlemail.com)
 
 
 **Class (Lecture) Location:** CPE 2.204 \
