@@ -10,18 +10,18 @@
 
 @font-face {
   font-family: 'Charis';
-  src: url("../fonts/charis_sil/CharisSILR.ttf") format("truetype"); }
+  src: url("fonts/charis_sil/CharisSILR.ttf") format("truetype"); }
 @font-face {
   font-family: 'Charis';
-  src: url("../fonts/charis_sil/CharisSILB.ttf") format("truetype");
+  src: url("fonts/charis_sil/CharisSILB.ttf") format("truetype");
   font-weight: bold; }
 @font-face {
   font-family: 'Charis';
-  src: url("../fonts/charis_sil/CharisSILI.ttf") format("truetype");
+  src: url("fonts/charis_sil/CharisSILI.ttf") format("truetype");
   font-style: italic; }
 @font-face {
   font-family: 'Charis';
-  src: url("../fonts/charis_sil/CharisSILBI.ttf") format("truetype");
+  src: url("fonts/charis_sil/CharisSILBI.ttf") format("truetype");
   font-weight: bold;
   font-style: italic; }
 
