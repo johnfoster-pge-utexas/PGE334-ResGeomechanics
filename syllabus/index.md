@@ -15,12 +15,6 @@
 **Email:** [jfoster@austin.utexas.edu](mailto:jfoster@austin.utexas.com)
 
 
-
-**Teaching Assistant:** Mahdi Haddad [mahdi.haddad at utexas.edu](mailto:mahdi.haddad@utexas.edu)
-**Teaching Assistant:** Javad Rashidi [j.nrashidi at googlemail.com](mailto:j.nrashidi@googlemail.com) \
-
-
-
 **Class (Lecture) Location:** CPE 2.204 \
 **Class (Lecture) Time:** TTH 9:30 - 11:00 AM \
 **Office Hours:** TTH 11:00-12:00 and by appointment (see <a href="http://johnfoster.pge.utexas.edu/calendar/" target="_blank">Calendar</a>)
@@ -40,6 +34,13 @@
 |19015  | Wednesday | 4:00 - 6:00 PM |
 
 \
+
+
+**Teaching Assistant:** Mahdi Haddad [mahdi.haddad at utexas.edu](mailto:mahdi.haddad@utexas.edu)
+**Teaching Assistant:** Javad Rashidi [j.nrashidi at googlemail.com](mailto:j.nrashidi@googlemail.com) \
+
+\
+
 
 **Course Website:** <https://utexas.instructure.com/courses/1134284> \
 
