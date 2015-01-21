@@ -170,3 +170,11 @@ body {
 .input_hidden {
   display: none;
 }
+
+
+/*********************************************
+ * FIX PDF PRINT ISSUE
+ *********************************************/
+.reveal {
+overflow: visible;
+}
