@@ -37,7 +37,8 @@
 
 
 **Teaching Assistant:** Mahdi Haddad [mahdi.haddad at utexas.edu](mailto:mahdi.haddad@utexas.edu)
-**Teaching Assistant:** Javad Rashidi [j.nrashidi at googlemail.com](mailto:j.nrashidi@googlemail.com) \
+**Teaching Assistant:** Javad Rashidi [j.nrashidi at googlemail.com](mailto:j.nrashidi@googlemail.com)
+**Grader:**  Forrest Estep [feestep at gmail.com](mailto:feestep@gmail.com) \
 
 \
 
@@ -51,7 +52,7 @@
 **Prerequisites:** Engineering Mechanics 319 and Petroleum and Geosystems Engineering 301 with a grade of at least C- in each.
 
 
-**Required Text:** None 
+**Required Text:**
 
 1. <a href="http://www.amazon.com/Reservoir-Geomechanics-Mark-D-Zoback/dp/0521146194/ref=sr_1_1_twi_2?ie=UTF8&qid=1420770522&sr=8-1&keywords=reservoir+geomechanics+zoback" target="_blank">Reservoir Geomechanics</a>. Zoback. 2007.
 
