@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Reservoir Geomechanics</title><link>/</link><description>Course webpage</description><atom:link href="/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Wed, 21 Jan 2015 15:28:36 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Welcome!</title><link>/posts/welcome.html</link><dc:creator>John T. Foster</dc:creator><description>&lt;!--
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Reservoir Geomechanics</title><link>/</link><description>Course webpage</description><atom:link href="/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Wed, 21 Jan 2015 19:38:17 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Printing slides as PDF</title><link>/posts/printing-slides-as-pdf.html</link><dc:creator>John T. Foster</dc:creator><description>&lt;!--
+.. title: Printing slides as PDF
+.. slug: printing-slides-as-pdf
+.. date: 2015-01-21 13:18:24 UTC-06:00
+.. tags: 
+.. link: 
+.. description: 
+.. type: text
+--&gt;
+
+&lt;p&gt;If you'd like to print out a PDF copy of the slides presented in class. Navigate to the link for the slides and append the text &lt;code&gt;?print-pdf&lt;/code&gt; to the end of the URL. So&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture1.slides.html"&gt;http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture1.slides.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;becomes&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture1.slides.html?print-pdf"&gt;http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture1.slides.html?print-pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;this changes the format of the slides to allow for better formatting of the PDF. Then just go to the file menu in your browser and select &lt;code&gt;File -&amp;gt; Print&lt;/code&gt; and print as PDF.&lt;/p&gt;</description><guid>/posts/printing-slides-as-pdf.html</guid><pubDate>Wed, 21 Jan 2015 19:18:24 GMT</pubDate></item><item><title>Welcome!</title><link>/posts/welcome.html</link><dc:creator>John T. Foster</dc:creator><description>&lt;!--
 .. title: Welcome!
 .. slug: welcome
 .. date: 2015-01-01 20:00:00 UTC-05:00
