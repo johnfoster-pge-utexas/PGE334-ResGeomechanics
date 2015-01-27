@@ -2,3 +2,5 @@ output
 cache
 .doit.db
 conf.pyc
+lectures/.ipynb_check*
+lectures/images

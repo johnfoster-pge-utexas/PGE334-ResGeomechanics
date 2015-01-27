@@ -20,7 +20,7 @@
 **Office Hours:** TTH 11:00-12:00 and by appointment (see <a href="http://johnfoster.pge.utexas.edu/calendar/" target="_blank">Calendar</a>)
 
 
-**Laboratory Location:** CPE 1.168 \
+**Laboratory Location:** CPE 1.182 \
 **Laboratory Times:**
 
 
