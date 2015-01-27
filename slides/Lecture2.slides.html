@@ -11,12 +11,11 @@
 
 <title>Lecture2 slides</title>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 
 <!-- General and theme style sheets -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/reveal.js/2.6.2/css/reveal.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/reveal.js/2.6.2/css/theme/simple.css" id="theme">
+<link rel="stylesheet" href="https://cdn.rawgit.com/johntfoster/reveal.js/3.0.0.1/css/reveal.css">
+<link rel="stylesheet" href="https://cdn.rawgit.com/johntfoster/reveal.js/3.0.0.1/css/theme/ut.css" id="theme">
 
 <!-- If the query includes 'print-pdf', include the PDF print sheet -->
 <script>
@@ -24,18 +23,17 @@ if( window.location.search.match( /print-pdf/gi ) ) {
         var link = document.createElement( 'link' );
         link.rel = 'stylesheet';
         link.type = 'text/css';
-        link.href = 'https://cdn.jsdelivr.net/reveal.js/2.6.2/css/print/pdf.css';
+        link.href = 'https://cdn.rawgit.com/johntfoster/reveal.js/3.0.0.1/css/print/pdf.css';
         document.getElementsByTagName( 'head' )[0].appendChild( link );
 }
-
 </script>
 
 <!--[if lt IE 9]>
-<script src="https://cdn.jsdelivr.net/reveal.js/2.6.2/lib/js/html5shiv.js"></script>
+<script src="https://cdn.rawgit.com/johntfoster/reveal.js/3.0.0.1/lib/js/html5shiv.js"></script>
 <![endif]-->
 
 <!-- Get Font-awesome from cdn -->
-<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.css">
+<!--link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.css"-->
 
 <style type="text/css">
     /*!
@@ -11286,7 +11284,8 @@ div.output_prompt {
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Matrix-Vector-multiplication">Matrix-Vector multiplication<a class="anchor-link" href="#Matrix-Vector-multiplication">&#182;</a></h2>\begin{equation}
+<h2 id="Matrix-Vector-multiplication">Matrix-Vector multiplication<a class="anchor-link" href="#Matrix-Vector-multiplication">&#182;</a></h2><p>${}$</p>
+\begin{equation}
 \left\{\begin{matrix}
 c_1 \\
 c_2 \\
@@ -11363,7 +11362,8 @@ $$
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Matrix-Matrix-multiplication">Matrix-Matrix multiplication<a class="anchor-link" href="#Matrix-Matrix-multiplication">&#182;</a></h2>\begin{equation}
+<h2 id="Matrix-Matrix-multiplication">Matrix-Matrix multiplication<a class="anchor-link" href="#Matrix-Matrix-multiplication">&#182;</a></h2><p>${}$</p>
+\begin{equation}
 \begin{bmatrix}
 c_{11} & c_{12} & c_{13} \\
 c_{21} & c_{22} & c_{23}  \\
@@ -11487,7 +11487,8 @@ c_{12} &= a_{11} b_{12} + a_{12} b_{22} + a_{13} b_{32} \\
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="The-determinant-of-a-2-x-2-matrix">The determinant of a 2 x 2 matrix<a class="anchor-link" href="#The-determinant-of-a-2-x-2-matrix">&#182;</a></h1>$$
+<h1 id="The-determinant-of-a-2-x-2-matrix">The determinant of a 2 x 2 matrix<a class="anchor-link" href="#The-determinant-of-a-2-x-2-matrix">&#182;</a></h1><p>${}$</p>
+$$
 \mathbf{A} = 
 \begin{bmatrix}
 a & b \\
@@ -11516,7 +11517,8 @@ $$
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="The-determinant-of-a-3-x-3-matrix">The determinant of a 3 x 3 matrix<a class="anchor-link" href="#The-determinant-of-a-3-x-3-matrix">&#182;</a></h1>$$
+<h1 id="The-determinant-of-a-3-x-3-matrix">The determinant of a 3 x 3 matrix<a class="anchor-link" href="#The-determinant-of-a-3-x-3-matrix">&#182;</a></h1><p>${}$</p>
+$$
 \mathbf{A} = 
 \begin{bmatrix}
 a & b & c\\
@@ -11658,7 +11660,8 @@ x_3
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Eigenvalue-problem">Eigenvalue problem<a class="anchor-link" href="#Eigenvalue-problem">&#182;</a></h1>$$
+<h1 id="Eigenvalue-problem">Eigenvalue problem<a class="anchor-link" href="#Eigenvalue-problem">&#182;</a></h1><p>${}$</p>
+$$
 \mathbf{A} \vec{v} = \lambda \vec{v}
 $$
 </div>
@@ -11734,7 +11737,8 @@ $$
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Vector-transformation">Vector transformation<a class="anchor-link" href="#Vector-transformation">&#182;</a></h1>$$
+<h1 id="Vector-transformation">Vector transformation<a class="anchor-link" href="#Vector-transformation">&#182;</a></h1><p>${}$</p>
+$$
 \vec{v}' = \mathbf{Q} \vec{v}
 $$
 </div>
@@ -11763,7 +11767,8 @@ $$
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Matrix-transformation">Matrix transformation<a class="anchor-link" href="#Matrix-transformation">&#182;</a></h1>$$
+<h1 id="Matrix-transformation">Matrix transformation<a class="anchor-link" href="#Matrix-transformation">&#182;</a></h1><p>${}$</p>
+$$
 \mathbf{S}' = \mathbf{Q}^{T} \mathbf{S} \mathbf{Q}
 $$
 </div>
@@ -13080,7 +13085,8 @@ width=300
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Stress-tensor">Stress tensor<a class="anchor-link" href="#Stress-tensor">&#182;</a></h1>$$
+<h1 id="Stress-tensor">Stress tensor<a class="anchor-link" href="#Stress-tensor">&#182;</a></h1><p>${}$</p>
+$$
 \mathbf{\sigma} = 
 \begin{bmatrix}
 \sigma_{11} & \sigma_{12} & \sigma_{13} \\
@@ -14073,9 +14079,9 @@ width=300
 </div>
 </div>
 
-<script src="https://cdn.jsdelivr.net/reveal.js/2.6.2/lib/js/head.min.js"></script>
+<script src="https://cdn.rawgit.com/johntfoster/reveal.js/3.0.0.1/lib/js/head.min.js"></script>
 
-<script src="https://cdn.jsdelivr.net/reveal.js/2.6.2/js/reveal.js"></script>
+<script src="https://cdn.rawgit.com/johntfoster/reveal.js/3.0.0.1/js/reveal.js"></script>
 
 <script>
 
@@ -14090,11 +14096,13 @@ transition: Reveal.getQueryHash().transition || 'linear', // default/cube/page/c
 
 // Optional libraries used to extend on reveal.js
 dependencies: [
-{ src: "https://cdn.jsdelivr.net/reveal.js/2.6.2/lib/js/classList.js", condition: function() { return !document.body.classList; } },
-{ src: "https://cdn.jsdelivr.net/reveal.js/2.6.2/plugin/notes/notes.js", async: true, condition: function() { return !!document.body.classList; } }
+{ src: "https://cdn.rawgit.com/johntfoster/reveal.js/3.0.0.1/lib/js/classList.js", condition: function() { return !document.body.classList; } },
+{ src: "https://cdn.rawgit.com/johntfoster/reveal.js/3.0.0.1/plugin/notes/notes.js", async: true }, 
+{ src: 'https://cdn.rawgit.com/johntfoster/reveal.js/3.0.0.1/plugin/zoom-js/zoom.js', async: true }
 ]
 });
 </script>
+
 
 <!-- Loading mathjax macro -->
 <!-- Load mathjax -->
@@ -14129,7 +14137,7 @@ Reveal.addEventListener( 'slidechanged', function( event ) {
 </body>
 
 
-<script>
+<script type="text/javascript">
 
 Reveal.initialize({
 
@@ -14185,7 +14193,7 @@ Reveal.initialize({
 </script>
 
 
-<script>
+<script type="text/javascript">
 $(document).ready(function(){
   $(".output_wrapper").click(function(){
       $(this).prev('.input_hidden').slideToggle();
@@ -14207,11 +14215,47 @@ hideElements(prompt_elements, 0);
 
 </script>
 
+<script type="text/javascript">
+      $(document).ready(function () {
+            $('.slides')
+                .children().each(
+                function (sectionNumber, section) {
+
+                  $(this).children().each(
+                      function (slideNumber) {
+
+                        var elem = $("<div></div>", {
+                        class: "pdf-footer",
+                        });
+                        elem.html("<img src='images/UT.png' width=100/>")
+                        elem.appendTo($('#text'));
+                       $(this).append(elem);
+                      })
+                });
+          }
+      )
+</script>
+
+<!--
+<script type="text/javascript">
+
+    var elem = document.createElement("img");
+    elem.setAttribute("src", "images/UT.png");
+    elem.setAttribute("width", "100");
+    
+    var cusid_ele = document.getElementsByClassName('pdf-footer');
+    for (var i = 0; i < cusid_ele.length; ++i) {
+        var item = cusid_ele[i];  
+        item.append(elem);
+    }
+</script>
+-->
+
 
 
 <div class='reveal'>
   <div class='footer'>
-      <img src='images/UT.png' width='100'>
+      <img src='images/UT.png' width='110'>
   </div>
 </div>
 

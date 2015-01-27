@@ -21,3 +21,5 @@ becomes
 
 
 this changes the format of the slides to allow for better formatting of the PDF.  Then just go to the file menu in your browser and select `File -> Print` and print as PDF.
+
+**Update:** The formatting should be a little better now.  Also, this may only work properly with the Google Chrome browser.
