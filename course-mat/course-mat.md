@@ -10,6 +10,8 @@ This page provides a listing, in reverse chronological order, of course material
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture5.slides.html" target="_blank">Lecture 5 Slides</a>
 
+<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZGQ_M3ct3w4Ct0rOSCVZKxV" target="_blank">Lecture 5 Recording</a> 
+
 
 **02-03-2015**
 
