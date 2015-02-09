@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Reservoir Geomechanics</title><link>/</link><description>Course webpage</description><atom:link href="/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Fri, 06 Feb 2015 15:19:22 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>1/29 Lecture Delayed</title><link>/posts/119-lecture-delayed.html</link><dc:creator>John T. Foster</dc:creator><description>&lt;!--
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Reservoir Geomechanics</title><link>/</link><description>Course webpage</description><atom:link href="/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Mon, 09 Feb 2015 14:06:52 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Lab 1 Instructions</title><link>/posts/lab-1-instructions.html</link><dc:creator>John T. Foster</dc:creator><description>&lt;!--
+.. title: Lab 1 Instructions
+.. slug: lab-1-instructions
+.. date: 2015-02-09 08:00:20 UTC-06:00
+.. tags: 
+.. link: 
+.. description: 
+.. type: text
+--&gt;
+
+&lt;p&gt;Lab 1 will involve conducting unconfined compressive tests on various rock samples, constructing stress-strain curves, and estimating the rock's Young's Modulus. The instructions for Lab 1 can be found &lt;a href="/files/lab1_UCS.pdf"&gt;here&lt;/a&gt; or on the &lt;a href="/course-mat/"&gt;Course Materials&lt;/a&gt; page.&lt;/p&gt;</description><guid>/posts/lab-1-instructions.html</guid><pubDate>Mon, 09 Feb 2015 14:00:20 GMT</pubDate></item><item><title>1/29 Lecture Delayed</title><link>/posts/119-lecture-delayed.html</link><dc:creator>John T. Foster</dc:creator><description>&lt;!--
 .. title: 1/29 Lecture Delayed
 .. slug: 119-lecture-delayed
 .. date: 2015-02-01 10:32:41 UTC-06:00
@@ -19,7 +29,7 @@
 .. type: text
 --&gt;
 
-&lt;p&gt;Homework #1 has been assigned. It is due Tuesday, Feb. 24 at the beginning of class. The assignment can be found &lt;a href="/posts/files/assignment1.pdf"&gt;here&lt;/a&gt; as well as on the &lt;a href="/course-mat"&gt;Course Materials&lt;/a&gt; webpage.&lt;/p&gt;</description><guid>/posts/homework-1-assigned.html</guid><pubDate>Tue, 27 Jan 2015 15:09:19 GMT</pubDate></item><item><title>First Lab</title><link>/posts/first-lab.html</link><dc:creator>John T. Foster</dc:creator><description>&lt;!--
+&lt;p&gt;Homework #1 has been assigned. It is due Tuesday, Feb. 24 at the beginning of class. The assignment can be found &lt;a href="/files/assignment1.pdf"&gt;here&lt;/a&gt; as well as on the &lt;a href="/course-mat"&gt;Course Materials&lt;/a&gt; webpage.&lt;/p&gt;</description><guid>/posts/homework-1-assigned.html</guid><pubDate>Tue, 27 Jan 2015 15:09:19 GMT</pubDate></item><item><title>First Lab</title><link>/posts/first-lab.html</link><dc:creator>John T. Foster</dc:creator><description>&lt;!--
 .. title: First Lab
 .. slug: first-lab
 .. date: 2015-01-26 21:53:23 UTC-06:00
