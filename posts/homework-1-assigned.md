@@ -8,4 +8,4 @@
 .. type: text
 -->
 
-Homework #1 has been assigned.  It is due Tuesday, Feb. 24 at the beginning of class.  The assignment can be found [here](files/assignment1.pdf) as well as on the [Course Materials](/course-mat) webpage.
+Homework #1 has been assigned.  It is due Tuesday, Feb. 24 at the beginning of class.  The assignment can be found [here](/files/assignment1.pdf) as well as on the [Course Materials](/course-mat) webpage.

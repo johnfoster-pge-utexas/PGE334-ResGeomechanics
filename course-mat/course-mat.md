@@ -6,6 +6,14 @@
 
 This page provides a listing, in reverse chronological order, of course materials that are associated to each scheduled lecture period.  This may include PDFs of the final lecture notes, links to recorded lectures, and any other reference material.
 
+
+**02-09-2015**
+
+[Lab 1 Instructions](/files/lab1_UCS.pdf)
+
+[Labview Instructions](/files/Labview_Instructions.docx)
+
+
 **02-05-2015**
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture5.slides.html" target="_blank">Lecture 5 Slides</a>
