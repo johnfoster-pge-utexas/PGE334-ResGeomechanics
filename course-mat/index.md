@@ -11,6 +11,10 @@ This page provides a listing, in reverse chronological order, of course material
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture7.slides.html" target="_blank">Lecture 7 Slides</a>
 
+<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZEYG_sqiRi-RLBu8-PFHlDW" target="_blank">Lecture 7 Recording</a> 
+
+<a href="http://nbviewer.ipython.org/url/johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/files/wellbore_stress_example.ipynb" target="_blank">Well bore Stress Resolution Example Code</a>
+
 
 **02-10-2015**
 
