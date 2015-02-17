@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Reservoir Geomechanics</title><link>/</link><description>Course webpage</description><atom:link href="/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Tue, 17 Feb 2015 17:52:37 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Homework #2 assigned</title><link>/posts/homework-2-assigned.html</link><dc:creator>John T. Foster</dc:creator><description>&lt;!--
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Reservoir Geomechanics</title><link>/</link><description>Course webpage</description><atom:link href="/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Tue, 17 Feb 2015 23:57:44 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>HW2 Solution posted</title><link>/posts/hw2-solution-posted.html</link><dc:creator>John T. Foster</dc:creator><description>&lt;!--
+.. title: HW2 Solution posted
+.. slug: hw2-solution-posted
+.. date: 2015-02-17 17:52:15 UTC-06:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+--&gt;
+
+&lt;p&gt;To assist in your test preparation, I have posted the solution to Homework 2 on the &lt;a href="/course-mat/"&gt;Course Materials&lt;/a&gt; page.&lt;/p&gt;
+&lt;p&gt;Regarding the exam, you are allowed 1 sheet front and back for notes/formulas. Calculators will be allowed, but no cell phone calculators so please prepare accordingly.&lt;/p&gt;</description><guid>/posts/hw2-solution-posted.html</guid><pubDate>Tue, 17 Feb 2015 23:52:15 GMT</pubDate></item><item><title>Homework #2 assigned</title><link>/posts/homework-2-assigned.html</link><dc:creator>John T. Foster</dc:creator><description>&lt;!--
 .. title: Homework #2 assigned
 .. slug: homework-2-assigned
 .. date: 2015-02-10 23:09:19 UTC-06:00
