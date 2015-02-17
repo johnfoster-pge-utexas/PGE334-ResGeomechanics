@@ -13,6 +13,8 @@ This page provides a listing, in reverse chronological order, of course material
 
 <a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZHR77iL2OnB5T_ohSLkYPxx" target="_blank">Lecture 8 Recording</a> 
 
+<a href="http://nbviewer.ipython.org/github/johntfoster/PGE334-ResGeomechanics/blob/gh-pages/files/assignment2_solution.ipynb" target="_blank">Homework Assignment 2 Solution</a>
+
 
 **02-12-2015**
 
