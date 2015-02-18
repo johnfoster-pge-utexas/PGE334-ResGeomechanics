@@ -9711,6 +9711,11 @@ div.output_stderr {
 div.output_latex {
   text-align: left;
 }
+div.output_png div.ui-wrapper,
+div.output_svg div.ui-wrapper,
+div.output_jpeg div.ui-wrapper {
+  max-width: 100%;
+}
 /* Empty output_javascript divs should have no height */
 div.output_javascript:empty {
   padding: 0;
@@ -10386,6 +10391,9 @@ h6:hover .anchor-link {
 .widget-radio-box label {
   margin-top: 0px;
 }
+.widget-radio {
+  margin-left: 20px;
+}
 /*!
 *
 * IPython notebook webapp
@@ -10558,8 +10566,9 @@ p {
   line-height: 1.5;
   border-radius: 1px;
   width: inherit;
-  font-size: 87%;
+  font-size: inherit;
   height: 22px;
+  padding: 0px;
   display: inline-block;
 }
 .celltoolbar select:focus {
@@ -13453,8 +13462,8 @@ $$
 <table style="border: hidden; " align="center">
   <tr>
     <td style="border: hidden; text-align: center"><img src="images/wellbore_wall.png" width=300></td>
-    <td style="border: hidden; text-align: center">$\quad\quad$\begin{align}\sigma_{t\mbox{max}} &=\frac{1}{2}\left(\sigma_{zz} + \sigma_{\theta\theta} + \sqrt{(\sigma_{zz} + \sigma_{\theta\theta})^2 + 4 \tau_{\theta z}^2}\right) \\
-    \sigma_{t\mbox{min}} &=\frac{1}{2}\left(\sigma_{zz} + \sigma_{\theta\theta} - \sqrt{(\sigma_{zz} + \sigma_{\theta\theta})^2 + 4 \tau_{\theta z}^2}\right)
+    <td style="border: hidden; text-align: center">$\quad\quad$\begin{align}\sigma_{t\mbox{max}} &=\frac{1}{2}\left(\sigma_{zz} + \sigma_{\theta\theta} + \sqrt{(\sigma_{zz} - \sigma_{\theta\theta})^2 + 4 \tau_{\theta z}^2}\right) \\
+    \sigma_{t\mbox{min}} &=\frac{1}{2}\left(\sigma_{zz} + \sigma_{\theta\theta} - \sqrt{(\sigma_{zz} - \sigma_{\theta\theta})^2 + 4 \tau_{\theta z}^2}\right)
     \end{align}</td>
   </tr>
 </table>
