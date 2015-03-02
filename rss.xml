@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Reservoir Geomechanics</title><link>/</link><description>Course webpage</description><atom:link href="/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Thu, 26 Feb 2015 15:26:46 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Midterm 1 Solution Posted</title><link>/posts/midterm-1-solution-posted.html</link><dc:creator>John T. Foster</dc:creator><description>&lt;!--
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Reservoir Geomechanics</title><link>/</link><description>Course webpage</description><atom:link href="/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Mon, 02 Mar 2015 23:01:35 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Exam 1 Statistics</title><link>/posts/exam-1-statistics.html</link><dc:creator>John T. Foster</dc:creator><description>&lt;!--
+.. title: Exam 1 Statistics
+.. slug: exam-1-statistics
+.. date: 2015-03-02 16:53:19 UTC-06:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+--&gt;
+
+&lt;p&gt;I've had several requests for the statistics of Exam 1. Here they are:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Average:&lt;/strong&gt; 85.3&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Variance:&lt;/strong&gt; 9.4&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Median:&lt;/strong&gt; 86&lt;/p&gt;</description><guid>/posts/exam-1-statistics.html</guid><pubDate>Mon, 02 Mar 2015 22:53:19 GMT</pubDate></item><item><title>Midterm 1 Solution Posted</title><link>/posts/midterm-1-solution-posted.html</link><dc:creator>John T. Foster</dc:creator><description>&lt;!--
 .. title: Midterm 1 Solution Posted
 .. slug: midterm-1-solution-posted
 .. date: 2015-02-19 13:04:09 UTC-06:00
