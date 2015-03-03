@@ -5,3 +5,4 @@ conf.pyc
 lectures/.ipynb_check*
 lectures/images
 .DS_Store
+*.ipynb_checkpoints
