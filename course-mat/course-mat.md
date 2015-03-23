@@ -26,6 +26,8 @@ This page provides a listing, in reverse chronological order, of course material
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture9.slides.html" target="_blank">Lecture 9 Slides</a>
 
+<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZG3VKryQMTzcVJy-BqScfZZ" target="_blank">Lecture 9 Recording</a>
+
 
 **2-19-2015**
 
@@ -37,7 +39,7 @@ This page provides a listing, in reverse chronological order, of course material
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture8.slides.html" target="_blank">Lecture 8 Slides</a>
 
-<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZHR77iL2OnB5T_ohSLkYPxx" target="_blank">Lecture 8 Recording</a> [Not available] 
+<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZHR77iL2OnB5T_ohSLkYPxx" target="_blank">Lecture 8 Recording</a>
 
 <a href="http://nbviewer.ipython.org/github/johntfoster/PGE334-ResGeomechanics/blob/gh-pages/files/assignment2_solution.ipynb" target="_blank">Homework Assignment 2 Solution</a>
 
