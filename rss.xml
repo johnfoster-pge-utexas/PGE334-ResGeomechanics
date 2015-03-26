@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Reservoir Geomechanics</title><link>/</link><description>Course webpage</description><atom:link href="/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Tue, 24 Mar 2015 14:21:09 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Exam 1 Statistics</title><link>/posts/exam-1-statistics.html</link><dc:creator>John T. Foster</dc:creator><description>&lt;!--
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Reservoir Geomechanics</title><link>/</link><description>Course webpage</description><atom:link href="/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Thu, 26 Mar 2015 03:58:32 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Homework #3 assigned</title><link>/posts/homework-3-assigned.html</link><dc:creator>John T. Foster</dc:creator><description>&lt;!--
+.. title: Homework #3 assigned
+.. slug: homework-3-assigned
+.. date: 2015-03-25 20:00:00 UTC-06:00
+.. tags: 
+.. link: 
+.. description: 
+.. type: text
+--&gt;
+
+&lt;p&gt;Homework #3 has been assigned. It is due Thursday, April. 2 at the beginning of class. The assignment can be found &lt;a href="/files/assignment3.pdf"&gt;here&lt;/a&gt; as well as on the &lt;a href="/course-mat"&gt;Course Materials&lt;/a&gt; webpage.&lt;/p&gt;</description><guid>/posts/homework-3-assigned.html</guid><pubDate>Thu, 26 Mar 2015 02:00:00 GMT</pubDate></item><item><title>Exam 1 Statistics</title><link>/posts/exam-1-statistics.html</link><dc:creator>John T. Foster</dc:creator><description>&lt;!--
 .. title: Exam 1 Statistics
 .. slug: exam-1-statistics
 .. date: 2015-03-02 16:53:19 UTC-06:00
@@ -101,14 +111,4 @@
 &lt;p&gt;becomes&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture1.slides.html?print-pdf"&gt;http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture1.slides.html?print-pdf&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;this changes the format of the slides to allow for better formatting of the PDF. Then just go to the file menu in your browser and select &lt;code&gt;File -&amp;gt; Print&lt;/code&gt; and print as PDF.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt; The formatting should be a little better now. Also, this may only work properly with the Google Chrome browser.&lt;/p&gt;</description><guid>/posts/printing-slides-as-pdf.html</guid><pubDate>Wed, 21 Jan 2015 19:18:24 GMT</pubDate></item><item><title>Welcome!</title><link>/posts/welcome.html</link><dc:creator>John T. Foster</dc:creator><description>&lt;!--
-.. title: Welcome!
-.. slug: welcome
-.. date: 2015-01-01 20:00:00 UTC-05:00
-.. tags: 
-.. link: 
-.. description: 
-.. type: text
---&gt;
-
-&lt;p&gt;Welcome to the course webpage for &lt;em&gt;PGE 334 - Reservoir Geomechanics&lt;/em&gt; taught in the &lt;a href="https://www.pge.utexas.edu/"&gt;Petroleum and Geosystems Engineering Department&lt;/a&gt; at &lt;a href="https://www.utexas.edu"&gt;The University of Texas at Austin&lt;/a&gt;. The course syllabus is available at &lt;a href="/syllabus/"&gt;here&lt;/a&gt; and on the navigation bar at the top of the page as well. Soon, there will be assignments posted here as well as additional reference material for the class. Please check this page frequently.&lt;/p&gt;</description><guid>/posts/welcome.html</guid><pubDate>Fri, 02 Jan 2015 01:00:00 GMT</pubDate></item></channel></rss>
+&lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt; The formatting should be a little better now. Also, this may only work properly with the Google Chrome browser.&lt;/p&gt;</description><guid>/posts/printing-slides-as-pdf.html</guid><pubDate>Wed, 21 Jan 2015 19:18:24 GMT</pubDate></item></channel></rss>
