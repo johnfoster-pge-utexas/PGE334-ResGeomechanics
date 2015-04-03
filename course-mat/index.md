@@ -6,6 +6,10 @@
 
 This page provides a listing, in reverse chronological order, of course materials that are associated to each scheduled lecture period.  This may include PDFs of the final lecture notes, links to recorded lectures, and any other reference material.
 
+**04-03-2015**
+
+[Homework Assignment 4](/files/assignment4.pdf)
+
 
 **03-31-2015**
 
