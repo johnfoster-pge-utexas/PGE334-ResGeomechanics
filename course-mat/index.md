@@ -31,10 +31,14 @@ This page provides a listing, in reverse chronological order, of course material
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture15.slides.html" target="_blank">Lecture 15 Slides</a>
 
+<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZFXy12UPea41YyplbKwoyCj" target="_blank">Lecture 15 Recording</a>
+
 
 **03-26-2015**
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture14.slides.html" target="_blank">Lecture 14 Slides</a>
+
+<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZFsNRwZDRE18_nCgEh4qeh6" target="_blank">Lecture 14 Recording</a>
 
 
 **03-24-2015**
