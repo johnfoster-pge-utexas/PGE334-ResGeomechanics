@@ -7,6 +7,11 @@
 This page provides a listing, in reverse chronological order, of course materials that are associated to each scheduled lecture period.  This may include PDFs of the final lecture notes, links to recorded lectures, and any other reference material.
 
 
+**04-23-2015**
+
+<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture19.slides.html" target="_blank">Lecture 19 Slides</a>
+
+
 **04-21-2015**
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture18.slides.html" target="_blank">Lecture 18 Slides</a>
