@@ -11,6 +11,10 @@ This page provides a listing, in reverse chronological order, of course material
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture21.slides.html" target="_blank">Lecture 21 Slides</a>
 
+<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/files/05-05-2015.pdf" target="_blank">PDF Notes on Energy Release Rate</a>
+
+<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZG0r5890tUjwFoLNoThLNNa" target="_blank">Lecture 21 Recording</a>
+
 
 **04-28-2015**
 
