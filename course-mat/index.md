@@ -28,6 +28,8 @@ This page provides a listing, in reverse chronological order, of course material
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture20.slides.html" target="_blank">Lecture 20 Slides</a>
 
+Video Recording Corrupted
+
 
 **04-23-2015**
 
@@ -39,6 +41,8 @@ This page provides a listing, in reverse chronological order, of course material
 **04-21-2015**
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture18.slides.html" target="_blank">Lecture 18 Slides</a>
+
+<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZGxlGWAMyQeRihVmiBFQLlD" target="_blank">Lecture 18 Recording</a>
 
 
 **04-14-2015**
