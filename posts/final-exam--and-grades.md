@@ -19,6 +19,7 @@ The statistics for the final exam are
 
 **High Score:** 98
 
+
 The final grades in the class have been issued using the following grading scheme:
 
 
@@ -32,3 +33,6 @@ The final grades in the class have been issued using the following grading schem
 |  > 68       | C-    |
 |  > 58       | D     |
 |  > 0        | F     |
+
+
+You can pick up your final exams and any other exams/assignments from my office, through June 1.  After this, I will recycle the paper.
