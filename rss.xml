@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Reservoir Geomechanics</title><link>/</link><description>Course webpage</description><atom:link href="/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Wed, 20 May 2015 13:51:02 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Homework #4 assigned</title><link>/posts/homework-4-assigned.html</link><dc:creator>John T. Foster</dc:creator><description>&lt;!--
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Reservoir Geomechanics</title><link>/</link><description>Course webpage</description><atom:link href="/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Thu, 21 May 2015 12:29:18 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Final Exam Statistics and Final Grades</title><link>/posts/final-exam--and-grades.html</link><dc:creator>John T. Foster</dc:creator><description>&lt;!--
+.. title: Final Exam Statistics and Final Grades
+.. slug: final-exam--and-grades
+.. date: 2015-05-20 08:27:19 UTC-06:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+--&gt;
+
+&lt;p&gt;The statistics for the final exam are&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Average:&lt;/strong&gt; 77&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Variance:&lt;/strong&gt; 10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Median:&lt;/strong&gt; 78&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;High Score:&lt;/strong&gt; 98&lt;/p&gt;
+&lt;p&gt;The final grades in the class have been issued using the following grading scheme:&lt;/p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr class="header"&gt;&lt;th align="left"&gt;Final Score&lt;/th&gt;
+&lt;th align="left"&gt;Grade&lt;/th&gt;
+&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr class="odd"&gt;&lt;td align="left"&gt;&amp;gt; 90&lt;/td&gt;
+&lt;td align="left"&gt;A&lt;/td&gt;
+&lt;/tr&gt;&lt;tr class="even"&gt;&lt;td align="left"&gt;&amp;gt; 88&lt;/td&gt;
+&lt;td align="left"&gt;A-&lt;/td&gt;
+&lt;/tr&gt;&lt;tr class="odd"&gt;&lt;td align="left"&gt;&amp;gt; 80&lt;/td&gt;
+&lt;td align="left"&gt;B&lt;/td&gt;
+&lt;/tr&gt;&lt;tr class="even"&gt;&lt;td align="left"&gt;&amp;gt; 78&lt;/td&gt;
+&lt;td align="left"&gt;B-&lt;/td&gt;
+&lt;/tr&gt;&lt;tr class="odd"&gt;&lt;td align="left"&gt;&amp;gt; 70&lt;/td&gt;
+&lt;td align="left"&gt;C&lt;/td&gt;
+&lt;/tr&gt;&lt;tr class="even"&gt;&lt;td align="left"&gt;&amp;gt; 68&lt;/td&gt;
+&lt;td align="left"&gt;C-&lt;/td&gt;
+&lt;/tr&gt;&lt;tr class="odd"&gt;&lt;td align="left"&gt;&amp;gt; 58&lt;/td&gt;
+&lt;td align="left"&gt;D&lt;/td&gt;
+&lt;/tr&gt;&lt;tr class="even"&gt;&lt;td align="left"&gt;&amp;gt; 0&lt;/td&gt;
+&lt;td align="left"&gt;F&lt;/td&gt;
+&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;You can pick up your final exams and any other exams/assignments from my office, through June 1. After this, I will recycle the paper.&lt;/p&gt;</description><guid>/posts/final-exam--and-grades.html</guid><pubDate>Wed, 20 May 2015 14:27:19 GMT</pubDate></item><item><title>Homework #4 assigned</title><link>/posts/homework-4-assigned.html</link><dc:creator>John T. Foster</dc:creator><description>&lt;!--
 .. title: Homework #4 assigned
 .. slug: homework-4-assigned
 .. date: 2015-04-4 11:00:00 UTC-06:00
@@ -96,14 +131,4 @@
 .. type: text
 --&gt;
 
-&lt;p&gt;Homework #1 has been assigned. It is due Tuesday, Feb. 3 at the beginning of class. The assignment can be found &lt;a href="/files/assignment1.pdf"&gt;here&lt;/a&gt; as well as on the &lt;a href="/course-mat"&gt;Course Materials&lt;/a&gt; webpage.&lt;/p&gt;</description><guid>/posts/homework-1-assigned.html</guid><pubDate>Tue, 27 Jan 2015 15:09:19 GMT</pubDate></item><item><title>First Lab</title><link>/posts/first-lab.html</link><dc:creator>John T. Foster</dc:creator><description>&lt;!--
-.. title: First Lab
-.. slug: first-lab
-.. date: 2015-01-26 21:53:23 UTC-06:00
-.. tags: 
-.. link: 
-.. description: 
-.. type: text
---&gt;
-
-&lt;p&gt;I've gotten several questions about when the first labs will be scheduled. We are having to do a little preparation in the room that the laboratory will be held therefore the first labs will not be until the week &lt;strong&gt;Feb. 10&lt;/strong&gt;.&lt;/p&gt;</description><guid>/posts/first-lab.html</guid><pubDate>Tue, 27 Jan 2015 03:53:23 GMT</pubDate></item></channel></rss>
+&lt;p&gt;Homework #1 has been assigned. It is due Tuesday, Feb. 3 at the beginning of class. The assignment can be found &lt;a href="/files/assignment1.pdf"&gt;here&lt;/a&gt; as well as on the &lt;a href="/course-mat"&gt;Course Materials&lt;/a&gt; webpage.&lt;/p&gt;</description><guid>/posts/homework-1-assigned.html</guid><pubDate>Tue, 27 Jan 2015 15:09:19 GMT</pubDate></item></channel></rss>
