@@ -2,6 +2,9 @@ sudo: false
 language: python
 python:
   - "3.4"
+before_install:
+    - git submodule init
+    - git submodule update
 install:
   - wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O miniconda.sh;
   - bash miniconda.sh -b -p $HOME/miniconda
@@ -14,7 +17,8 @@ install:
   - source activate PGE334
 compiler:
   - gcc
-script: nikola build
+script: 
+  - nikola build
 after_success: 
     # Get to the Travis build directory, configure git and clone the repo
     - cd $HOME
