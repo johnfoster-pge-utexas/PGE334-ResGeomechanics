@@ -2,7 +2,7 @@
 .. title: Final Exam Statistics and Final Grades
 .. slug: final-exam--and-grades
 .. date: 2015-05-20 08:27:19 UTC-06:00
-.. tags: 
+.. tags: draft
 .. category: 
 .. link: 
 .. description: 
