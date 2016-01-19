@@ -31,6 +31,7 @@ dependencies:
   - jupyter-core==4.0.6
   - logbook==0.12.5
   - lxml==3.5.0
+  - macfsevents==0.7
   - mako==1.0.3
   - markupsafe==0.23
   - mistune==0.7.1
