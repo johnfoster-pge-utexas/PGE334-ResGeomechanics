@@ -2,11 +2,6 @@ sudo: false
 language: python
 python:
   - "3.4"
-before_install:
-    - git submodule init
-    - git submodule update
-    - ls
-    - ls themes
 install:
   - wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O miniconda.sh;
   - bash miniconda.sh -b -p $HOME/miniconda
@@ -20,6 +15,7 @@ install:
 compiler:
   - gcc
 script: 
+  - nikola install_theme ut-ipython
   - nikola build
 after_success: 
     # Get to the Travis build directory, configure git and clone the repo
