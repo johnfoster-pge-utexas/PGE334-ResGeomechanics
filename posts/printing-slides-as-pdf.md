@@ -2,7 +2,7 @@
 .. title: Printing slides as PDF
 .. slug: printing-slides-as-pdf
 .. date: 2015-01-21 13:18:24 UTC-06:00
-.. tags: 
+.. tags: draft
 .. link: 
 .. description: 
 .. type: text

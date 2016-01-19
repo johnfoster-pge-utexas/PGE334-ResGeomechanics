@@ -1,11 +1,11 @@
 <!--
 .. title: First Lab
 .. slug: first-lab
-.. date: 2015-01-26 21:53:23 UTC-06:00
-.. tags: 
+.. date: 2016-01-26 21:53:23 UTC-06:00
+.. tags: draft
 .. link: 
 .. description: 
-.. type: text
+.. type: text 
 -->
 
 I've gotten several questions about when the first labs will be scheduled.  We are
