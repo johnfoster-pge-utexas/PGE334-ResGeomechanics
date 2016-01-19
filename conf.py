@@ -187,7 +187,7 @@ FILES_FOLDERS = {"files": "files", "notes": "notes", "slides": "slides",}
 # 'html' assumes the file is html and just copies it
 COMPILERS = {
     "rest": ('.rst', '.txt'),
-    #"markdown": ('.md', '.mdown', '.markdown'),
+    "markdown": ('.md', '.mdown', '.markdown'),
     "textile": ('.textile',),
     "txt2tags": ('.t2t',),
     "bbcode": ('.bb',),
@@ -201,7 +201,7 @@ COMPILERS = {
     # Pandoc detects the input from the source filename
     # but is disabled by default as it would conflict
     # with many of the others.
-    "pandoc": ('.md',),
+    # "pandoc": ('.md',),
 }
 
 # Create by default posts in one file format?

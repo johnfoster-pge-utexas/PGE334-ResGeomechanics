@@ -15,7 +15,6 @@ install:
 compiler:
   - gcc
 script: 
-  - nikola install_theme ut-ipython
   - nikola build
 after_success: 
     # Get to the Travis build directory, configure git and clone the repo
