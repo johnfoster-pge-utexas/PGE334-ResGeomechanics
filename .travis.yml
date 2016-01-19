@@ -12,6 +12,8 @@ install:
   - conda info -a
   - conda env create -f environment.yml
   - source activate PGE334
+compiler:
+  - gcc
 script: nikola build
 after_success: 
     # Get to the Travis build directory, configure git and clone the repo
