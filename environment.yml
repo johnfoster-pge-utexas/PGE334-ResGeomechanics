@@ -1,5 +1,6 @@
 name: PGE334
 dependencies:
+- markdown=2.6.5=py35_0
 - openssl=1.0.2e=0
 - pip=7.1.2=py35_0
 - python=3.5.1=0
