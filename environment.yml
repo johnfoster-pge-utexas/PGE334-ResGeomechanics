@@ -1,0 +1,61 @@
+name: PGE334
+dependencies:
+- openssl=1.0.2e=0
+- pip=7.1.2=py35_0
+- python=3.5.1=0
+- readline=6.2=2
+- setuptools=19.2=py35_0
+- sqlite=3.9.2=0
+- tk=8.5.18=0
+- wheel=0.26.0=py35_1
+- xz=5.0.5=0
+- zlib=1.2.8=0
+- pip:
+  - appnope==0.1.0
+  - blinker==1.4
+  - cloudpickle==0.1.1
+  - decorator==4.0.6
+  - docutils==0.12
+  - doit==0.29.0
+  - gnureadline==6.3.3
+  - husl==4.0.3
+  - ipykernel==4.2.2
+  - ipython==4.0.2
+  - ipython-genutils==0.1.0
+  - ipywidgets==4.1.1
+  - jinja2==2.8
+  - jsonschema==2.5.1
+  - jupyter==1.0.0
+  - jupyter-client==4.1.1
+  - jupyter-console==4.1.0
+  - jupyter-core==4.0.6
+  - logbook==0.12.5
+  - lxml==3.5.0
+  - macfsevents==0.7
+  - mako==1.0.3
+  - markupsafe==0.23
+  - mistune==0.7.1
+  - natsort==4.0.4
+  - nbconvert==4.1.0
+  - nbformat==4.0.1
+  - nikola==7.7.4
+  - notebook==4.1.0
+  - path.py==8.1.2
+  - pexpect==4.0.1
+  - pickleshare==0.5
+  - pillow==3.1.0
+  - ptyprocess==0.5
+  - pygments==2.1
+  - pyrss2gen==1.1
+  - python-dateutil==2.4.2
+  - pyzmq==15.2.0
+  - qtconsole==4.1.1
+  - requests==2.9.1
+  - simplegeneric==0.8.1
+  - six==1.10.0
+  - terminado==0.6
+  - tornado==4.3
+  - traitlets==4.1.0
+  - unidecode==0.4.18
+  - yapsy==1.11.223
+

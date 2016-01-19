@@ -1,17 +1,18 @@
-language: python
 sudo: false
-before_install:
-- export PATH="$HOME/pandoc:$PATH"
-- mkdir $HOME/pandoc
-- curl -O https://s3.amazonaws.com/rstudio-buildtools/pandoc-1.12.3.zip
-- unzip -j pandoc-1.12.3.zip pandoc-1.12.3/linux/debian/x86_64/pandoc -d $HOME/pandoc
-- chmod +x $HOME/pandoc/pandoc
-- pandoc --version
-- rm pandoc-1.12.3.zip
+language: python
 python:
-- '2.7'
+  - "3.5"
 install:
-- pip install -r requirements.txt
+  - sudo apt-get update
+  - wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O miniconda.sh;
+  - bash miniconda.sh -b -p $HOME/miniconda
+  - export PATH="$HOME/miniconda/bin:$PATH"
+  - hash -r
+  - conda config --set always_yes yes --set changeps1 no
+  - conda update -q conda
+  - conda info -a
+  - conda env create -f path/to/environment.yml
+  - source activate PGE334
 script: nikola build
 after_success: 
     # Get to the Travis build directory, configure git and clone the repo
