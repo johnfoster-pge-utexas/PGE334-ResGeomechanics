@@ -132,7 +132,7 @@ hideElements(prompt_elements, 0);
 
 <div class='reveal'>
   <div class='footer'>
-      <img src='images/UT.png' width='110'>
+      <img src='images/UT.png' width='220'>
   </div>
 </div>
 
