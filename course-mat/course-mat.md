@@ -9,7 +9,7 @@ This page provides a listing, in reverse chronological order, of course material
 
 **02-01-2016**
 
-<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecturer6.slides.html" target="_blank">Lecture 6 Slides</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture6.slides.pdf" target="_blank">PDF</a>)
+<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture6.slides.html" target="_blank">Lecture 6 Slides</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture6.slides.pdf" target="_blank">PDF</a>)
 
 <a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZFrsj--pS7fQoADFkY1HPB4" target="_blank">Lecture 6 Recording</a>
 
