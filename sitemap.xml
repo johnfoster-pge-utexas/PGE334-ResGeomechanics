@@ -7,50 +7,54 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>/2016/index.html</loc>
-  <lastmod>2016-01-29T13:33:00Z</lastmod>
+  <lastmod>2016-02-01T13:29:00Z</lastmod>
  </url>
  <url>
   <loc>/archive.html</loc>
-  <lastmod>2016-01-29T13:33:00Z</lastmod>
+  <lastmod>2016-02-01T13:29:00Z</lastmod>
  </url>
  <url>
   <loc>/categories/index.html</loc>
-  <lastmod>2016-01-29T13:33:00Z</lastmod>
+  <lastmod>2016-02-01T13:29:00Z</lastmod>
  </url>
  <url>
   <loc>/course-mat/index.html</loc>
-  <lastmod>2016-01-29T13:33:00Z</lastmod>
+  <lastmod>2016-02-01T13:29:00Z</lastmod>
  </url>
  <url>
   <loc>/index.html</loc>
-  <lastmod>2016-01-29T13:33:00Z</lastmod>
+  <lastmod>2016-02-01T13:29:00Z</lastmod>
  </url>
  <url>
   <loc>/posts/welcome.html</loc>
-  <lastmod>2016-01-29T13:33:00Z</lastmod>
+  <lastmod>2016-02-01T13:29:00Z</lastmod>
  </url>
  <url>
   <loc>/slides/Lecture1.slides.html</loc>
-  <lastmod>2016-01-29T13:29:00Z</lastmod>
+  <lastmod>2016-02-01T13:25:00Z</lastmod>
  </url>
  <url>
   <loc>/slides/Lecture2.slides.html</loc>
-  <lastmod>2016-01-29T13:29:00Z</lastmod>
+  <lastmod>2016-02-01T13:25:00Z</lastmod>
  </url>
  <url>
   <loc>/slides/Lecture3.slides.html</loc>
-  <lastmod>2016-01-29T13:29:00Z</lastmod>
+  <lastmod>2016-02-01T13:25:00Z</lastmod>
  </url>
  <url>
   <loc>/slides/Lecture4.slides.html</loc>
-  <lastmod>2016-01-29T13:29:00Z</lastmod>
+  <lastmod>2016-02-01T13:25:00Z</lastmod>
  </url>
  <url>
   <loc>/slides/Lecture5.slides.html</loc>
-  <lastmod>2016-01-29T13:29:00Z</lastmod>
+  <lastmod>2016-02-01T13:25:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/slides/Lecture6.slides.html</loc>
+  <lastmod>2016-02-01T13:25:00Z</lastmod>
  </url>
  <url>
   <loc>/syllabus/index.html</loc>
-  <lastmod>2016-01-29T13:33:00Z</lastmod>
+  <lastmod>2016-02-01T13:29:00Z</lastmod>
  </url>
 </urlset>
