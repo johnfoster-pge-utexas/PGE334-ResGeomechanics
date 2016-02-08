@@ -13,6 +13,8 @@ This page provides a listing, in reverse chronological order, of course material
 
 <a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZEwlU1_gkZFyvcasVsCkOnn" target="_blank">Lecture 9 Recording</a>
 
+[Homework Assignment 2](/files/assignment2.pdf) (Due 02-12-2016)
+
 
 **02-05-2016**
 
