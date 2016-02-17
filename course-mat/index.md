@@ -6,7 +6,12 @@
 
 This page provides a listing, in reverse chronological order, of course materials that are associated to each scheduled lecture period.  This may include PDFs of the final lecture notes, links to recorded lectures, and any other reference material.
 
-**02-15-2015**
+**02-17-2016**
+
+[Midterm 1 Solution](/files/midterm1_solution.pdf)
+
+
+**02-15-2016**
 
 <a href="http://nbviewer.ipython.org/github/johntfoster/PGE334-ResGeomechanics/blob/gh-pages/files/assignment2_solution-2016.ipynb" target="_blank">Homework Assignment 2 Solution</a>
 
