@@ -11,7 +11,7 @@ This page provides a listing, in reverse chronological order, of course material
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture13.slides.html" target="_blank">Lecture 13 Slides</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture13.slides.pdf" target="_blank">PDF</a>)
 
-<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZHRJb2uV-0-brrh1FJsigJn" target="_blank">Lecture 12 Recording</a>
+<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZHRJb2uV-0-brrh1FJsigJn" target="_blank">Lecture 13 Recording</a>
 
 
 **02-19-2016**
