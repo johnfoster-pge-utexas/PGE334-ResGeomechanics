@@ -83,9 +83,9 @@ Below is a general outline of what I intend to cover in the course.  This is sub
 | Mar. 7, 9, 11     | rock failure | |
 | Mar. 14, 16, 18     | **Spring Break** | |
 | Mar. 21, 23, 25     | wellbore failure, stability, design | |
-| Mar. 28, 30 Apr. 1 | wellbore failure, stability, design | |
-| Apr. 4, 6, 8       | **Midterm Exam 2**, reservoir depletion | |
-| Apr. 11, 13, 15     | reservoir depletion | |
+| **Mar. 28**, 30 Apr. 1 | **Midterm Exam 2**, reservoir depletion | |
+| Apr. 4, 6, 8       | reservoir depletion | |
+| Apr. 11, 13, 15     | hydraulic fracturing | |
 | Apr. 18, 20, 22     | hydraulic fracturing | |
 | Apr. 25, 27, 29     | hydraulic fracturing | |
 | May. 2, 4, 6       | induced seismicity | |
