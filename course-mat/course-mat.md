@@ -13,6 +13,9 @@ This page provides a listing, in reverse chronological order, of course material
 
 <a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZFfq4okMc6ITN3Hv4j4fWn7" target="_blank">Lecture 20 Recording</a>
 
+[Homework Assignment 4](/files/assignment4.pdf) (Due 03-28-2016)
+
+
 
 **03-09-2016**
 
