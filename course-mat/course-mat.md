@@ -12,7 +12,7 @@ This page provides a listing, in reverse chronological order, of course material
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture24.slides.html" target="_blank">Lecture 24 Slides</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture21.slides.pdf" target="_blank">PDF</a>)
 
-<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZFJDGGA9bQVxx7zA9gih6cZ" target="_blank">Lecture 24 Recording</a>
+<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZE94tDa6WHIeWNEmJlPamp4" target="_blank">Lecture 24 Recording</a>
 
 [Midterm 2 Solution](/files/midterm2_solution.pdf)
 
