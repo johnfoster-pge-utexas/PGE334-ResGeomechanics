@@ -6,11 +6,7 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>/rss.xml</loc>
-  <lastmod>2016-04-20T13:35:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>/sitemap.xml</loc>
-  <lastmod>2016-04-20T13:35:00Z</lastmod>
+  <lastmod>2016-04-27T13:11:00Z</lastmod>
  </sitemap>
 </sitemapindex>
