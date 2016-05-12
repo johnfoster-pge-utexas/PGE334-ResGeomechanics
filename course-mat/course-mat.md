@@ -7,11 +7,28 @@
 This page provides a listing, in reverse chronological order, of course materials that are associated to each scheduled lecture period.  This may include PDFs of the final lecture notes, links to recorded lectures, and any other reference material.
 
 
+**05-02-2016**
+
+<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZEQa9JF2h-jBjliZ3aBSGbH" target="_blank">Lecture 35 Recording</a>
+
+
+**04-29-2016**
+
+<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZGfjjtXYaOTGNIOWnElfwvD" target="_blank">Lecture 34 Recording</a>
+
+
 **04-27-2016**
 
-[Lecture 32 Notes](/files/04-27-2016.pdf)
+[Lecture 33 Notes](/files/04-27-2016.pdf)
 
-<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZGU9bDaea1WqAsACZzggIhY" target="_blank">Lecture 31 Recording</a>
+<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZGU9bDaea1WqAsACZzggIhY" target="_blank">Lecture 33 Recording</a>
+
+
+**04-25-2016**
+
+[Lecture 32 Notes](/files/04-25-2016.pdf)
+
+<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZGU9bDaea1WqAsACZzggIhY" target="_blank">Lecture 32 Recording</a>
 
 
 **04-22-2016**
