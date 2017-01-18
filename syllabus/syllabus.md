@@ -36,12 +36,14 @@
 \
 
 
-**Teaching Assistant:** 
-Mahdi Haddad [mahdi.haddad at utexas.edu](mailto:mahdi.haddad@utexas.edu) 
-Chao Gao [goachaosu at gmail.com](mailto:gaochaoseu@gmail.com) 
+**Teaching Assistants:** 
+
+Mahdi Haddad -- [mahdi.haddad at utexas.edu](mailto:mahdi.haddad@utexas.edu) 
+
+Chao Gao -- [goachaosu at gmail.com](mailto:gaochaoseu@gmail.com) 
 
 
-**Course Website:** <https://utexas.instructure.com/courses/1163704> \
+**Course Website:** <https://utexas.instructure.com/courses/1192067> \
 
 
 **Course Description**: Basic stress and strain analysis; pore pressure and in situ stress estimation and measurement; deformation mechanisms in rock; rock fracture description and analysis; wellbore stresses and failure; wellbore stability analysis; fault stability analysis; depletion-induced reservoir deformation; and hydraulic fracturing. Emphasis on applications to petroleum engineering. \
@@ -52,8 +54,7 @@ Chao Gao [goachaosu at gmail.com](mailto:gaochaoseu@gmail.com)
 
 **Required Text:**
 
-1. <a href="http://www.amazon.com/Reservoir-Geomechanics-Mark-D-Zoback/dp/0521146194/ref=sr_1_1_twi_2?ie=UTF8&qid=1420770522&sr=8-1&keywords=reservoir+geomechanics+zoback" target="_blank">Reservoir Geomechanics</a>. Zoback. 2007.
-
+1. <a href="https://www.amazon.com/Reservoir-Geomechanics-Mark-D-Zoback/dp/0521146194/ref=asap_bc?ie=UTF8" target="_blank">. Reservoir Geomechanics</a>. Zoback. 2007. 
 
 **Additional References:**
 
