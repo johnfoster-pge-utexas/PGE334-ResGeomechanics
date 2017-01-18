@@ -282,7 +282,7 @@ This page provides a listing, in reverse chronological order, of course material
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture1.slides.html" target="_blank">Lecture 1 Slides</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture1.slides.pdf" target="_blank">PDF</a>)
 
-<!--<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZF05d7Dp8ZkvWe4ENV8r7Ky" target="_blank">Lecture 1 Recording</a>-->
+<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZHy8WW1KWjPwkIh4LIiBXPl" target="_blank">Lecture 1 Recording</a>
 
 
 
