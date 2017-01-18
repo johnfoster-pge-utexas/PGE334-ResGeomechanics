@@ -5,7 +5,8 @@
 #Own hosted (debug)
 #ipython nbconvert $1 --to slides --reveal-prefix https://rawgit.com/johntfoster/reveal.js/tree/master --config slides_config.py --post serve
 #Production CDN
-jupyter nbconvert $1 --to slides --reveal-prefix https://cdn.rawgit.com/johntfoster/reveal.js/3.0.0.1 --config slides_config.py --post serve
+#jupyter nbconvert $1 --to slides --reveal-prefix https://cdn.rawgit.com/johntfoster/reveal.js/3.0.0.1 --config slides_config.py --post serve
+jupyter nbconvert $1 --to slides --config slides_config.py --post serve
 
 
 
