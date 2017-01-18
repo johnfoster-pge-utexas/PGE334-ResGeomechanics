@@ -1,7 +1,7 @@
 <!--
 .. title: Syllabus
 .. slug: index
-.. date: 2016-01-19 08:00:00 UTC-05:00
+.. date: 2017-01-17 08:00:00 UTC-05:00
 .. template: notitle.tmpl
 .. description: PGE 334 - Reservoir Geomechanics syllabus page
 -->
@@ -17,7 +17,7 @@
 
 **Class (Lecture) Location:** CPE 2.204 \
 **Class (Lecture) Time:** MWF 9:00 - 10:00 AM \
-**Office Hours:** TTH 10:00-12:00 and by appointment (see <a href="http://johnfoster.pge.utexas.edu/calendar/" target="_blank">Calendar</a>)
+**Office Hours:** MW 10:00-12:00 and by appointment (see <a href="http://johnfoster.pge.utexas.edu/calendar/" target="_blank">Calendar</a>)
 
 
 **Laboratory Location:** CPE 1.182 \
@@ -26,15 +26,19 @@
 
 |Unique #| Day | Time |
 |:------:|-----|:----:|
-|19190  | Monday | 2:00 - 4:00 PM |
-|19195  | Wednesday | 2:00 - 4:00 PM |
+|19100  | Monday | 10:00 AM - 12:00 PM |
+|19112  | Monday | 12:00 PM - 2:00 PM |
+|19110  | Monday | 2:00 PM - 4:00 PM |
+|19095  | Tuesday | 8:00 AM - 10:00 AM |
+|19105  | Wednesday | 10:00 AM - 12:00 AM |
+|19113  | Wednesday | 1:00 PM - 3:00 PM |
 
 \
 
 
-**Teaching Assistant:** Mahdi Haddad [mahdi.haddad at utexas.edu](mailto:mahdi.haddad@utexas.edu)
-
-\
+**Teaching Assistant:** 
+Mahdi Haddad [mahdi.haddad at utexas.edu](mailto:mahdi.haddad@utexas.edu) 
+Chao Gao [goachaosu at gmail.com](mailto:gaochaoseu@gmail.com) 
 
 
 **Course Website:** <https://utexas.instructure.com/courses/1163704> \
@@ -73,23 +77,23 @@ Below is a general outline of what I intend to cover in the course.  This is sub
 
 | Week            | Topic               | Notes     |
 |-----------------|---------------------|-----------|
-| Jan. 20, 22     | structural geology, fault classification | |
-| Jan. 25, 27, 29 | tectonic stress, stress tensor  | |
-| Feb. 1, 3, 5    | principle stresses,  pore pressure | |
-| Feb. 8, 10, 12  | stress resolution | |
-| Feb. 15, 17, 19 | **Midterm Exam 1**, constitutive laws | |
-| Feb. 22, 24, 26 | constitutive laws | |
-| Feb. 29, Mar. 2, 5       | rock failure | |
-| Mar. 7, 9, 11     | rock failure | |
-| Mar. 14, 16, 18     | **Spring Break** | |
+| Jan. 18, 20     | structural geology, fault classification | |
+| Jan. 23, 25, 27 | tectonic stress, stress tensor  | |
+| Jan. 30, Feb. 1, 3    | principle stresses,  pore pressure | |
+| Feb. 6, 8, 9  | stress resolution | |
+| Feb. 13, 15, 17 | **Midterm Exam 1**, constitutive laws | |
+| Feb. 20, 22, 24 | constitutive laws | |
+| Feb. 27, Mar. 1, 3       | rock failure | |
+| Mar. 6, 8, 10     | rock failure | |
+| Mar. 13, 15, 17     | **Spring Break** | |
 | Mar. 21, 23, 25     | wellbore failure, stability, design | |
-| Mar. 28, 30 **Apr. 1** | **Midterm Exam 2**, reservoir depletion | |
-| Apr. 4, 6, 8       | reservoir depletion | |
-| Apr. 11, 13, 15     | hydraulic fracturing | |
-| Apr. 18, 20, 22     | hydraulic fracturing | |
-| Apr. 25, 27, 29     | hydraulic fracturing | |
-| May. 2, 4, 6       | induced seismicity | |
-| May. 14         | **Final Exam** | 7:00 - 10:00 PM |
+| Mar. 27, 29, 31  | **Midterm Exam 2**, reservoir depletion | |
+| Apr. 3, 5, 7       | reservoir depletion | |
+| Apr. 10, 12, 14       | induced seismicity | |
+| Apr. 17, 19, 21    | hydraulic fracturing | |
+| Apr. 24 26, 28    | hydraulic fracturing | |
+| May 1, 3, 5      | hydraulic fracturing | |
+| May. 11         | **Final Exam** | 2:00 - 5:00 PM |
 
 \
 
