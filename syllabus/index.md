@@ -98,4 +98,15 @@ Below is a general outline of what I intend to cover in the course.  This is sub
 
 \
 
+**Lab Schedule**
+
+| Title       | Week |
+|-------------|-------------------------|
+|Experiment 1 | January 30 - February 3 |
+|Experiment 2 | February 13 -  17 |
+|Experiment 3| February 27 - March 3 |
+|Experiment 4| March 20 - 24 | 
+
+\
+
 **Disability Statement:** The University of Austin provides upon request appropriate academic accommodations for qualified students with disabilities. For more information, contact the Office of the Dean of Students at 512-471-6259 or see <a href="https://www.utexas.edu/diversity/ddce/ssd/" target="_blank">https://www.utexas.edu/diversity/ddce/ssd/</a> for more information.
