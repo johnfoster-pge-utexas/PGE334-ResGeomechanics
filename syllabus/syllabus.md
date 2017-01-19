@@ -71,6 +71,28 @@ Chao Gao -- [goachaosu at gmail.com](mailto:gaochaoseu@gmail.com)
 
  * Homeworks, quizzes, lab reports, and computer projects: 40%
 
+ * The following grading rubric will be used to calculate letter grades from the final numerical course grade
+   
+    | Range | Letter |
+    |-----------|--------|
+    | > 90      | A      |
+    | 89 to < 90.0 | A-  |
+    | 86 to < 89 | B+    |
+    | 80 to < 86 | B     |
+    | 79 to < 80 | B-    |
+    | 76 to < 79 | C+    |
+    | 70 to < 76 | C     |
+    | 69 to < 70 | C-    |
+    | 66 to < 69 | D+    |
+    | 60 to < 66 | D    |
+    | 59 to < 60 | D-    |
+    | < 59 | F    |
+  
+    \
+
+    I reserve the right to curve, but I will only do so in a way that shifts these ranges *down*.  In other words, these letter grades are
+    the lowest you could receive if your final numerical grade falls in these ranges, any curve will only work to *improve* your letter grade.
+
 
 **Outline**
 
