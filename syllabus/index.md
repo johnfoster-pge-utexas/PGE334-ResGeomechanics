@@ -20,13 +20,12 @@
 **Office Hours:** MW 10:00-12:00 and by appointment (see <a href="http://johnfoster.pge.utexas.edu/calendar/" target="_blank">Calendar</a>)
 
 
-**Laboratory Location:** CPE 1.182 \
+**Laboratory Location:** CPE 1.168 \
 **Laboratory Times:**
 
 
 |Unique #| Day | Time |
 |:------:|-----|:----:|
-|19100  | Monday | 10:00 AM - 12:00 PM |
 |19112  | Monday | 12:00 PM - 2:00 PM |
 |19110  | Monday | 2:00 PM - 4:00 PM |
 |19095  | Tuesday | 8:00 AM - 10:00 AM |
