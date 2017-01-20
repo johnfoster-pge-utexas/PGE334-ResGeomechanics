@@ -38,10 +38,16 @@
 
 **Teaching Assistants:** 
 
-Mahdi Haddad -- [mahdi.haddad at utexas.edu](mailto:mahdi.haddad@utexas.edu) 
 
-Chao Gao -- [goachaosu at gmail.com](mailto:gaochaoseu@gmail.com) 
+Mahdi Haddad -- Email: [mahdi.haddad at utexas.edu](mailto:mahdi.haddad@utexas.edu) \
+Office Hours: Tuesdays 12-2 PM Caudle Center (PGE Student Study Lounge)
 
+\
+
+Chao Gao -- Email: [goachaosu at gmail.com](mailto:gaochaoseu@gmail.com) \
+Office Hours: Wednesday 3-6 PM Bridgeway 306 
+
+\
 
 **Course Website:** <https://utexas.instructure.com/courses/1192067> \
 
