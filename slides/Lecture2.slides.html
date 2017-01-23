@@ -11,11 +11,12 @@
 
 <title>Lecture2 slides</title>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 
 <!-- General and theme style sheets -->
-<link rel="stylesheet" href="https://cdn.rawgit.com/johntfoster/reveal.js/3.0.0.1/css/reveal.css">
-<link rel="stylesheet" href="https://cdn.rawgit.com/johntfoster/reveal.js/3.0.0.1/css/theme/ut.css" id="theme">
+<link rel="stylesheet" href="reveal.js/css/reveal.css">
+<link rel="stylesheet" href="reveal.js/css/theme/simple.css" id="theme">
 
 <!-- If the query includes 'print-pdf', include the PDF print sheet -->
 <script>
@@ -23,17 +24,41 @@ if( window.location.search.match( /print-pdf/gi ) ) {
         var link = document.createElement( 'link' );
         link.rel = 'stylesheet';
         link.type = 'text/css';
-        link.href = 'https://cdn.rawgit.com/johntfoster/reveal.js/3.0.0.1/css/print/pdf.css';
+        link.href = 'reveal.js/css/print/pdf.css';
         document.getElementsByTagName( 'head' )[0].appendChild( link );
 }
+
 </script>
 
 <!--[if lt IE 9]>
-<script src="https://cdn.rawgit.com/johntfoster/reveal.js/3.0.0.1/lib/js/html5shiv.js"></script>
+<script src="reveal.js/lib/js/html5shiv.js"></script>
 <![endif]-->
 
+<!-- Loading the mathjax macro -->
+<!-- Load mathjax -->
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+    <!-- MathJax configuration -->
+    <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        tex2jax: {
+            inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+            displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+            processEscapes: true,
+            processEnvironments: true
+        },
+        // Center justify equations in code and markdown cells. Elsewhere
+        // we use CSS to left justify single line equations in code cells.
+        displayAlign: 'center',
+        "HTML-CSS": {
+            styles: {'.MathJax_Display': {"margin": 0}},
+            linebreaks: { automatic: true }
+        }
+    });
+    </script>
+    <!-- End of mathjax configuration -->
+
 <!-- Get Font-awesome from cdn -->
-<!--link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.css"-->
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.css">
 
 <style type="text/css">
     /*!
@@ -11720,11 +11745,9 @@ ul.typeahead-list > li > a {
 
 <style type="text/css">
 /* Overrides of notebook CSS for static HTML export */
-html {
-  overflow-y: auto;
-}
 .reveal {
   font-size: 160%;
+  overflow-y: scroll;
 }
 .reveal pre {
   width: inherit;
@@ -11777,6 +11800,14 @@ div.output_prompt {
   /* 5px right shift to account for margin in parent container */
   margin: 5px 5px 0 0;
 }
+div.text_cell.rendered .rendered_html {
+  /* The H1 height seems miscalculated, we are just hidding the scrollbar */
+  overflow-y: hidden;
+}
+a.anchor-link {
+  /* There is still an anchor, we are only hidding it */
+  display: none;
+}
 .rendered_html p {
   text-align: inherit;
 }
@@ -11788,64 +11819,12 @@ div.output_prompt {
 </head>
 
 
-
 <body>
+
+
 <div class="reveal">
 <div class="slides">
-<div style=display:none>
-    
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input_hidden">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[5]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="o">%</span><span class="k">load_ext</span> tikzmagic
-</pre></div>
-
-</div>
-</div>
-</div>
-
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area"><div class="prompt"></div>
-<div class="output_subarea output_stream output_stdout output_text">
-<pre>The tikzmagic extension is already loaded. To reload it, use:
-  %reload_ext tikzmagic
-</pre>
-</div>
-</div>
-
-</div>
-</div>
-
-</div>
-    </div><div style=display:none>
-    
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input_hidden">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[6]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">IPython.display</span>
-</pre></div>
-
-</div>
-</div>
-</div>
-
-</div>
-
-</div>
-    </div><section>
-    <section>
-    
+<section><section>
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -11854,8 +11833,7 @@ div.output_prompt {
 <h1 id="Linear-Algebra-Basics">Linear Algebra Basics<a class="anchor-link" href="#Linear-Algebra-Basics">&#182;</a></h1>
 </div>
 </div>
-</div><section>
-    
+</div></section><section>
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -11881,8 +11859,7 @@ b_3
 \end{equation}
 </div>
 </div>
-</div><div class="fragment" data-fragment-index="">
-    
+</div><div class="fragment">
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -11893,9 +11870,7 @@ c_1 = a_{11} b_1 + a_{12} b_2 + a_{13} b_3
 $$
 </div>
 </div>
-</div>
-    </div><div class="fragment" data-fragment-index="">
-    
+</div></div><div class="fragment">
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -11906,9 +11881,7 @@ c_2 = a_{21} b_1 + a_{22} b_2 + a_{23} b_3
 $$
 </div>
 </div>
-</div>
-    </div><div class="fragment" data-fragment-index="">
-    
+</div></div><div class="fragment">
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -11919,9 +11892,7 @@ c_3 = a_{31} b_1 + a_{32} b_2 + a_{33} b_3
 $$
 </div>
 </div>
-</div>
-    </div><div class="fragment" data-fragment-index="">
-    
+</div></div><div class="fragment">
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -11931,9 +11902,7 @@ $$
 
 </div>
 </div>
-</div>
-    </div><section>
-    
+</div></div></section><section>
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -11959,8 +11928,7 @@ b_{31} & b_{32} & b_{33}
 \end{equation}
 </div>
 </div>
-</div><div class="fragment" data-fragment-index="">
-    
+</div><div class="fragment">
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -11971,9 +11939,7 @@ c_{11} = a_{11} b_{11} + a_{12} b_{21} + a_{13} b_{31}
 $$
 </div>
 </div>
-</div>
-    </div><div class="fragment" data-fragment-index="">
-    
+</div></div><div class="fragment">
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -11985,9 +11951,7 @@ c_{12} &= a_{11} b_{12} + a_{12} b_{22} + a_{13} b_{32} \\
 \end{align}
 </div>
 </div>
-</div>
-    </div><div class="fragment" data-fragment-index="">
-    
+</div></div><div class="fragment">
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -11997,9 +11961,7 @@ c_{12} &= a_{11} b_{12} + a_{12} b_{22} + a_{13} b_{32} \\
 
 </div>
 </div>
-</div>
-    </div><section>
-    
+</div></div></section><section>
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -12008,8 +11970,7 @@ c_{12} &= a_{11} b_{12} + a_{12} b_{22} + a_{13} b_{32} \\
 <h1 id="Examples">Examples<a class="anchor-link" href="#Examples">&#182;</a></h1>
 </div>
 </div>
-</div><div class="fragment" data-fragment-index="">
-    
+</div><div class="fragment">
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -12032,9 +11993,7 @@ c_{12} &= a_{11} b_{12} + a_{12} b_{22} + a_{13} b_{32} \\
 \end{equation}
 </div>
 </div>
-</div>
-    </div><div class="fragment" data-fragment-index="">
-    
+</div></div><div class="fragment">
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -12056,9 +12015,7 @@ c_{12} &= a_{11} b_{12} + a_{12} b_{22} + a_{13} b_{32} \\
 \end{equation}
 </div>
 </div>
-</div>
-    </div><section>
-    
+</div></div></section><section>
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -12074,8 +12031,7 @@ c & d
 $$
 </div>
 </div>
-</div><div class="fragment" data-fragment-index="">
-    
+</div><div class="fragment">
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -12086,9 +12042,7 @@ $$
 $$
 </div>
 </div>
-</div>
-    </div><section>
-    
+</div></div></section><section>
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -12105,8 +12059,7 @@ g & h & i
 $$
 </div>
 </div>
-</div><div class="fragment" data-fragment-index="">
-    
+</div><div class="fragment">
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -12117,9 +12070,7 @@ $$
 $$
 </div>
 </div>
-</div>
-    </div><section>
-    
+</div></div></section><section>
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -12148,8 +12099,7 @@ b_3
 \end{equation}
 </div>
 </div>
-</div><div class="fragment" data-fragment-index="">
-    
+</div><div class="fragment">
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -12158,9 +12108,7 @@ b_3
 $$\mathbf{A}\vec{x} = \vec{b}$$
 </div>
 </div>
-</div>
-    </div><div class="fragment" data-fragment-index="">
-    
+</div></div><div class="fragment">
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -12172,9 +12120,7 @@ $$\mathbf{A}\vec{x} = \vec{b}$$
 
 </div>
 </div>
-</div>
-    </div><div class="fragment" data-fragment-index="">
-    
+</div></div><div class="fragment">
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -12186,9 +12132,7 @@ $$\mathbf{A}\vec{x} = \vec{b}$$
 
 </div>
 </div>
-</div>
-    </div><div class="fragment" data-fragment-index="">
-    
+</div></div><div class="fragment">
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -12200,9 +12144,7 @@ $$\mathbf{A}\vec{x} = \vec{b}$$
 
 </div>
 </div>
-</div>
-    </div><section>
-    
+</div></div></section><section>
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -12230,8 +12172,7 @@ x_3
 \end{equation}
 </div>
 </div>
-</div><section>
-    
+</div></section><section>
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -12244,7 +12185,7 @@ $$
 </div>
 </div>
 </div><aside class="notes">
-    
+
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -12255,8 +12196,7 @@ $$
 </div>
 </div>
 </div>
-    </aside><div class="fragment" data-fragment-index="">
-    
+</aside><div class="fragment">
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -12267,9 +12207,7 @@ $$
 $$
 </div>
 </div>
-</div>
-    </div><div class="fragment" data-fragment-index="">
-    
+</div></div><div class="fragment">
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -12280,9 +12218,7 @@ $$
 $$
 </div>
 </div>
-</div>
-    </div><div class="fragment" data-fragment-index="">
-    
+</div></div><div class="fragment">
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -12295,7 +12231,6 @@ $$
 </div>
 </div>
 </div>
-    </div>
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -12305,8 +12240,7 @@ $$
 
 </div>
 </div>
-</div><section>
-    
+</div></div></section><section>
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -12318,8 +12252,7 @@ $$
 $$
 </div>
 </div>
-</div><div class="fragment" data-fragment-index="">
-    
+</div><div class="fragment">
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -12334,9 +12267,7 @@ $$
 $$
 </div>
 </div>
-</div>
-    </div><section>
-    
+</div></div></section><section>
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -12348,8 +12279,7 @@ $$
 $$
 </div>
 </div>
-</div><div class="fragment" data-fragment-index="">
-    
+</div><div class="fragment">
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -12359,10 +12289,7 @@ $$
 
 </div>
 </div>
-</div>
-    </div><section>
-    <section>
-    
+</div></div></section></section><section><section>
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -12373,7 +12300,6 @@ $$
 </div>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
-<div class="input_hidden">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[7]:</div>
 <div class="inner_cell">
@@ -12403,8 +12329,6 @@ $$
 
 </div>
 </div>
-</div>
-
 </div>
 
 <div class="output_wrapper">
@@ -12814,8 +12738,7 @@ Ri0xLjUgBVwLOQAAAABJRU5ErkJggg==
 </div>
 </div>
 
-</div><section>
-    
+</div></section><section>
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -12826,7 +12749,6 @@ Ri0xLjUgBVwLOQAAAABJRU5ErkJggg==
 </div>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
-<div class="input_hidden">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[11]:</div>
 <div class="inner_cell">
@@ -12836,8 +12758,6 @@ Ri0xLjUgBVwLOQAAAABJRU5ErkJggg==
 
 </div>
 </div>
-</div>
-
 </div>
 
 <div class="output_wrapper">
@@ -13646,8 +13566,7 @@ width=300
 
 </div>
 </div>
-</div><section>
-    
+</div></section><section>
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -13664,8 +13583,7 @@ $$
 $$
 </div>
 </div>
-</div><section>
-    
+</div></section><section>
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -13676,7 +13594,6 @@ $$
 </div>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
-<div class="input_hidden">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[10]:</div>
 <div class="inner_cell">
@@ -13686,8 +13603,6 @@ $$
 
 </div>
 </div>
-</div>
-
 </div>
 
 <div class="output_wrapper">
@@ -14611,8 +14526,7 @@ width=300
 
 </div>
 </div>
-</div><div class="fragment" data-fragment-index="">
-    
+</div><div class="fragment">
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -14624,9 +14538,7 @@ width=300
 
 </div>
 </div>
-</div>
-    </div><div class="fragment" data-fragment-index="">
-    
+</div></div><div class="fragment">
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -14638,188 +14550,63 @@ width=300
 
 </div>
 </div>
+</div></div></section></section>
 </div>
-    </div>
 </div>
-</div>
-
-<script src="https://cdn.rawgit.com/johntfoster/reveal.js/3.0.0.1/lib/js/head.min.js"></script>
-
-<script src="https://cdn.rawgit.com/johntfoster/reveal.js/3.0.0.1/js/reveal.js"></script>
 
 <script>
 
-// Full list of configuration options available here: https://github.com/hakimel/reveal.js#configuration
-Reveal.initialize({
-controls: true,
-progress: true,
-history: true,
+require(
+    {
+      // it makes sense to wait a little bit when you are loading
+      // reveal from a cdn in a slow connection environment
+      waitSeconds: 15
+    },
+    [
+      "reveal.js/lib/js/head.min.js",
+      "reveal.js/js/reveal.js"
+    ],
 
-theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
-transition: Reveal.getQueryHash().transition || 'linear', // default/cube/page/concave/zoom/linear/none
+    function(head, Reveal){
 
-// Optional libraries used to extend on reveal.js
-dependencies: [
-{ src: "https://cdn.rawgit.com/johntfoster/reveal.js/3.0.0.1/lib/js/classList.js", condition: function() { return !document.body.classList; } },
-{ src: "https://cdn.rawgit.com/johntfoster/reveal.js/3.0.0.1/plugin/notes/notes.js", async: true }, 
-{ src: 'https://cdn.rawgit.com/johntfoster/reveal.js/3.0.0.1/plugin/zoom-js/zoom.js', async: true }
-]
-});
-</script>
+        // Full list of configuration options available here: https://github.com/hakimel/reveal.js#configuration
+        Reveal.initialize({
+            controls: true,
+            progress: true,
+            history: true,
 
+            theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+            transition: Reveal.getQueryHash().transition || 'linear', // default/cube/page/concave/zoom/linear/none
 
-<!-- Loading mathjax macro -->
-<!-- Load mathjax -->
-    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
-    <!-- MathJax configuration -->
-    <script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-        tex2jax: {
-            inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-            displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
-            processEscapes: true,
-            processEnvironments: true
-        },
-        // Center justify equations in code and markdown cells. Elsewhere
-        // we use CSS to left justify single line equations in code cells.
-        displayAlign: 'center',
-        "HTML-CSS": {
-            styles: {'.MathJax_Display': {"margin": 0}},
-            linebreaks: { automatic: true }
-        }
-    });
-    </script>
-    <!-- End of mathjax configuration -->
+            // Optional libraries used to extend on reveal.js
+            dependencies: [
+                { src: "reveal.js/lib/js/classList.js",
+                  condition: function() { return !document.body.classList; } },
+                { src: "reveal.js/plugin/notes/notes.js",
+                  async: true,
+                  condition: function() { return !!document.body.classList; } }
+            ]
+        });
 
-<script>
-Reveal.addEventListener( 'slidechanged', function( event ) {
-  window.scrollTo(0,0);
-  MathJax.Hub.Rerender(event.currentSlide);
-});
+        var update = function(event){
+          if(MathJax.Hub.getAllJax(Reveal.getCurrentSlide())){
+            MathJax.Hub.Rerender(Reveal.getCurrentSlide());
+          }
+        };
+
+        Reveal.addEventListener('slidechanged', update);
+
+        var update_scroll = function(event){
+          $(".reveal").scrollTop(0);
+        };
+
+        Reveal.addEventListener('slidechanged', update_scroll);
+
+    }
+);
 </script>
 
 </body>
 
 
-<script type="text/javascript">
-
-Reveal.initialize({
-
-    // Display controls in the bottom right corner
-    //controls: true,
-
-    // Display a presentation progress bar
-    //progress: true,
-
-    // Push each slide change to the browser history
-    //history: false,
-
-    // Enable keyboard shortcuts for navigation
-    //keyboard: true,
-
-    // Enable touch events for navigation
-    //touch: true,
-
-    // Enable the slide overview mode
-    //overview: true,
-
-    // Vertical centering of slides
-    //center: true,
-
-    // Loop the presentation
-    //loop: false,
-
-    // Change the presentation direction to be RTL
-    //rtl: false,
-
-    // Number of milliseconds between automatically proceeding to the
-    // next slide, disabled when set to 0, this value can be overwritten
-    // by using a data-autoslide attribute on your slides
-    //autoSlide: 0,
-
-    // Enable slide navigation via mouse wheel
-    //mouseWheel: false,
-
-    // Transition style
-    transition: 'concave', // default/cube/page/concave/zoom/linear/fade/none
-
-    // Transition speed
-    //transitionSpeed: 'default', // default/fast/slow
-
-    // Transition style for full page backgrounds
-    //backgroundTransition: 'default', // default/linear/none
-
-    // Theme
-    theme: 'simple' // available themes are in /css/theme
-
-});
-
-</script>
-
-
-<script type="text/javascript">
-$(document).ready(function(){
-  $(".output_wrapper").click(function(){
-      $(this).prev('.input_hidden').slideToggle();
-  });
-})
-</script>
-
-<script type="text/javascript">
-function hideElements(elements, start) {
-    for(var i = 0, length = elements.length; i < length;i++) {
-        if(i >= start) {
-            elements[i].style.display = "none";
-        }
-    }
-}
-
-var prompt_elements = document.getElementsByClassName('prompt');
-hideElements(prompt_elements, 0);
-
-</script>
-
-<script type="text/javascript">
-      $(document).ready(function () {
-            $('.slides')
-                .children().each(
-                function (sectionNumber, section) {
-
-                  $(this).children().each(
-                      function (slideNumber) {
-
-                        var elem = $("<div></div>", {
-                        class: "pdf-footer",
-                        });
-                        elem.html("<img src='images/UT.png' width=100/>")
-                        elem.appendTo($('#text'));
-                       $(this).append(elem);
-                      })
-                });
-          }
-      )
-</script>
-
-<!--
-<script type="text/javascript">
-
-    var elem = document.createElement("img");
-    elem.setAttribute("src", "images/UT.png");
-    elem.setAttribute("width", "100");
-    
-    var cusid_ele = document.getElementsByClassName('pdf-footer');
-    for (var i = 0; i < cusid_ele.length; ++i) {
-        var item = cusid_ele[i];  
-        item.append(elem);
-    }
-</script>
--->
-
-
-
-<div class='reveal'>
-  <div class='footer'>
-      <img src='images/UT.png' width='220'>
-  </div>
-</div>
-
+</html>
