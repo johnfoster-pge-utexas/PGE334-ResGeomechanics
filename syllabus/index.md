@@ -44,7 +44,7 @@ Office Hours: Tuesdays 12-2 PM Caudle Center (PGE Student Study Lounge)
 \
 
 Chao Gao -- Email: [goachaosu at gmail.com](mailto:gaochaoseu@gmail.com) \
-Office Hours: Wednesday 3-6 PM Bridgeway 306 
+Office Hours: Thursday 3-6 PM Bridgeway 306 
 
 \
 
