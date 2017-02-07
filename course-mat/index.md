@@ -232,7 +232,8 @@ This page provides a listing, in reverse chronological order, of course material
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture6.slides.html" target="_blank">Slides</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture6.slides.pdf" target="_blank">PDF</a>)
 
-<!--<a href="https://www.youtube.com/playlist?list=PL7Wioa6YOlZFZ3ehlNfCyGIFqIjV1wkVc" target="_blank">Lecture 8 Recording</a>-->
+<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZGyV9fr7u-bEjfQW6xyEDyB" target="_blank">Lecture Recording</a>
+ 
 
 
 **02-03-2017**
@@ -240,7 +241,7 @@ This page provides a listing, in reverse chronological order, of course material
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture7.slides.html" target="_blank">Slides</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture7.slides.pdf" target="_blank">PDF</a>)
 
 
-<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZEw3GxZLIvxDQj0uV-gz4-L" target="_blank">Lecture 7 Recording</a>
+<a 7ref="//www.youtube.com/playlist?list=PL7Wioa6YOlZEw3GxZLIvxDQj0uV-gz4-L" target="_blank">Lecture Recording</a>
 
 
 **02-01-2017**
