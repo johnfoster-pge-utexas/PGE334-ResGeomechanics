@@ -224,9 +224,14 @@ This page provides a listing, in reverse chronological order, of course material
 
 <a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZEwlU1_gkZFyvcasVsCkOnn" target="_blank">Lecture 9 Recording</a>
 
-[Homework Assignment 2](/files/assignment2.pdf) (Due 02-12-2017)
 
 -->
+
+**02-08 and 02-10-2017**
+
+<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZHvKgo2YchTHJVXDarpWZ83" target="_blank">Lecture Recording</a>
+
+[Homework Assignment 2](/files/assignment2.pdf) (Due 02-15-2017)
 
 **02-06-2017**
 
