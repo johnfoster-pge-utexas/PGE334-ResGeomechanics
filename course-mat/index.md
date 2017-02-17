@@ -228,7 +228,7 @@ This page provides a listing, in reverse chronological order, of course material
 
 **02-15-2017**
 
-<a href="http://nbviewer.ipython.org/github/johntfoster/PGE334-ResGeomechanics/blob/gh-pages/files/assignment2_solution-2016.ipynb" target="_blank">Homework Assignment 2 Solution</a>
+<a href="http://nbviewer.ipython.org/github/johntfoster/PGE334-ResGeomechanics/blob/gh-pages/files/assignment2_solution-2017.ipynb" target="_blank">Homework Assignment 2 Solution</a>
 
 
 **02-08 and 02-10-2017**
