@@ -226,6 +226,13 @@ This page provides a listing, in reverse chronological order, of course material
 
 -->
 
+**02-17-2017**
+
+[Midterm 1 Solution](/files/midterm1-2017_solution.pdf)
+
+<a href="http://nbviewer.ipython.org/github/johntfoster/PGE334-ResGeomechanics/blob/gh-pages/files/midterm1-2017_solution_calculations.ipynb" target="_blank">Midterm 1 Solution Calculations</a>
+
+
 **02-15-2017**
 
 <a href="http://nbviewer.ipython.org/github/johntfoster/PGE334-ResGeomechanics/blob/gh-pages/files/assignment2_solution-2017.ipynb" target="_blank">Homework Assignment 2 Solution</a>
