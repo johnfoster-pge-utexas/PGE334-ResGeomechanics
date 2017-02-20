@@ -226,11 +226,18 @@ This page provides a listing, in reverse chronological order, of course material
 
 -->
 
+**02-20-2017**
+
+<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture9.slides.html" target="_blank">Lecture Slides (Part 1)</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture9.slides.pdf" target="_blank">PDF</a>)
+
+<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture10.slides.html" target="_blank">Lecture Slides (Part 2)</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture10.slides.pdf" target="_blank">PDF</a>)
+
+
 **02-17-2017**
 
 [Midterm 1 Solution](/files/midterm1-2017_solution.pdf)
 
-<a href="http://nbviewer.ipython.org/github/johntfoster/PGE334-ResGeomechanics/blob/gh-pages/files/midterm1-2017_solution_calculations.ipynb" target="_blank">Midterm 1 Solution Calculations</a>
+<a href="http://nbviewer.jupyter.org/github/johnfoster-pge-utexas/PGE334-ResGeomechanics/blob/gh-pages/files/midterm1-2017_solution_calclulations.ipynb" target="_blank">Midterm 1 Solution Calculations</a>
 
 
 **02-15-2017**
