@@ -226,6 +226,11 @@ This page provides a listing, in reverse chronological order, of course material
 
 -->
 
+**03-02-2017**
+
+<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZGnq69jc-AZ-mUe_xTFezIT" target="_blank">Lecture Recording</a>
+
+
 **02-26-2017**
 
 <a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZGjNgXUL30jGc7aGLLdxnMu" target="_blank">Lecture Recording</a>
