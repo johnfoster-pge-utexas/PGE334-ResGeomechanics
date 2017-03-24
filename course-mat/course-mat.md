@@ -234,6 +234,7 @@ This page provides a listing, in reverse chronological order, of course material
 
 [Homework Assignment 4](/files/assignment4.pdf) (Due 03-29-2017)
 
+<a href="http://nbviewer.ipython.org/github/johntfoster/PGE334-ResGeomechanics/blob/gh-pages/files/assignment3-2016_solution.ipynb" target="_blank">Homework Assignment 3 Solution</a>
 
 **03-20-2017**
 
@@ -266,7 +267,6 @@ This page provides a listing, in reverse chronological order, of course material
 
 <a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZG66Um_E8m0EER5Z2XnO6DV" target="_blank">Lecture Recording</a>
 
-<a href="http://nbviewer.ipython.org/github/johntfoster/PGE334-ResGeomechanics/blob/gh-pages/files/assignment3-2016_solution.ipynb" target="_blank">Homework Assignment 3 Solution</a>
 
 
 **03-02-2017**
