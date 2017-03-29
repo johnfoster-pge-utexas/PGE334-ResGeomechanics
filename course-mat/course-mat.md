@@ -226,6 +226,11 @@ This page provides a listing, in reverse chronological order, of course material
 
 -->
 
+**03-29-2017**
+
+<a href="http://nbviewer.ipython.org/github/johntfoster/PGE334-ResGeomechanics/blob/gh-pages/files/assignment4_solution.ipynb" target="_blank">Homework Assignment 4 Solution</a>
+
+
 **03-24-2017**
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture22.slides.html" target="_blank">Lecture Slides</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture22.slides.pdf" target="_blank">PDF</a>)
