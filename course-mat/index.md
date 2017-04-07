@@ -226,6 +226,11 @@ This page provides a listing, in reverse chronological order, of course material
 
 -->
 
+**04-7-2017**
+
+<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture23.slides.html" target="_blank">Lecture Slides</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture23.slides.pdf" target="_blank">PDF</a>)
+
+
 **03-31-2017**
 
 [Midterm 2 Solution](/files/midterm2-2017_solution.pdf)
