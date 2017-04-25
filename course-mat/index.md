@@ -226,7 +226,20 @@ This page provides a listing, in reverse chronological order, of course material
 
 -->
 
-**04-12-2017**
+**04-24-2017**
+
+[Lecture Notes](/files/04-24-2017.pdf)
+
+<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZHD0U14ole1Ng9Aru77BqVD" target="_blank">Lecture Recording</a>
+
+
+**04-17-2017**
+
+[Lecture Notes](/files/04-17-2017.pdf)
+
+<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZGF9N2OwA9KcAIe_M583ELe" target="_blank">Lecture Recording</a>
+
+**04-14-2017**
 
 <a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZFEIkL98ezbkoIwgg17j6gP" target="_blank">Lecture Recording</a>
 
