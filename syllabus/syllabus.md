@@ -12,12 +12,12 @@
 **Instructor:** John T. Foster, Ph.D. \
 **Office:** PGE 3.108 \
 **Phone:** 512-471-6972 \
-**Email:** [jfoster@austin.utexas.edu](mailto:jfoster@austin.utexas.com)
+**Email:** [john.foster@utexas.edu](mailto:john.foster@utexas.com)
 
 
 **Class (Lecture) Location:** CPE 2.204 \
-**Class (Lecture) Time:** MWF 9:00 - 10:00 AM \
-**Office Hours:** MW 10:00-12:00 and by appointment (see <a href="http://johnfoster.pge.utexas.edu/calendar/" target="_blank">Calendar</a>)
+**Class (Lecture) Time:** MWF 12:00 - 1:00 PM \
+**Office Hours:** F 9:00-10:30 and by appointment (see <a href="http://johnfoster.pge.utexas.edu/calendar/" target="_blank">Calendar</a>)
 
 
 **Laboratory Location:** CPE 1.168 \
@@ -26,11 +26,11 @@
 
 |Unique #| Day | Time |
 |:------:|-----|:----:|
-|19112  | Monday | 12:00 PM - 2:00 PM |
-|19110  | Monday | 2:00 PM - 4:00 PM |
-|19095  | Tuesday | 8:00 AM - 10:00 AM |
-|19105  | Wednesday | 10:00 AM - 12:00 AM |
-|19113  | Wednesday | 1:00 PM - 3:00 PM |
+|18405 | Monday | 9:00 AM - 11:00 AM |
+|18410 | Tuesday | 9:00 AM - 11:00 AM |
+|18415 | Wednesday | 10:00 AM - 12:00 PM |
+|18420 | Wednesday | 1:00 PM - 3:00 PM |
+|18425 | Wednesday | 3:00 PM - 5:00 PM |
 
 \
 
@@ -38,13 +38,9 @@
 **Teaching Assistants:** 
 
 
-Mahdi Haddad -- Email: [mahdi.haddad at utexas.edu](mailto:mahdi.haddad@utexas.edu) \
-Office Hours: Tuesdays 12-2 PM Caudle Center (PGE Student Study Lounge)
-
-\
-
-Chao Gao -- Email: [goachaosu at gmail.com](mailto:gaochaoseu@gmail.com) \
-Office Hours: Thursday 3-6 PM Bridgeway 306 
+TBD
+#Chao Gao -- Email: [goachaosu at gmail.com](mailto:gaochaoseu@gmail.com) \
+#Office Hours: Thursday 3-6 PM Bridgeway 306 
 
 \
 
