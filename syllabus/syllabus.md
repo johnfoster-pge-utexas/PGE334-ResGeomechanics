@@ -103,23 +103,23 @@ Below is a general outline of what I intend to cover in the course.  This is sub
 
 | Week            | Topic               | Notes     |
 |-----------------|---------------------|-----------|
-| Jan. 18, 20     | structural geology, fault classification | |
-| Jan. 23, 25, 27 | tectonic stress, stress tensor  | |
-| Jan. 30, Feb. 1, 3    | principle stresses,  pore pressure | |
-| Feb. 6, 8, 9  | stress resolution | |
-| Feb. 13, 15, 17 | **Midterm Exam 1**, constitutive laws | |
-| Feb. 20, 22, 24 | constitutive laws | |
-| Feb. 27, Mar. 1, 3       | rock failure | |
-| Mar. 6, 8, 10     | rock failure | |
-| Mar. 13, 15, 17     | **Spring Break** | |
-| Mar. 21, 23, 25     | wellbore failure, stability, design | |
-| Mar. 27, 29, 31  | **Midterm Exam 2**, reservoir depletion | |
-| Apr. 3, 5, 7       | reservoir depletion | |
-| Apr. 10, 12, 14       | induced seismicity | |
-| Apr. 17, 19, 21    | hydraulic fracturing | |
-| Apr. 24 26, 28    | hydraulic fracturing | |
-| May 1, 3, 5      | hydraulic fracturing | |
-| May. 11         | **Final Exam** | 2:00 - 5:00 PM |
+| Jan. 17, 19     | structural geology, fault classification | |
+| Jan. 22, 24, 26 | tectonic stress, stress tensor  | |
+| Jan. 29, 31, Feb. 2    | principle stresses,  pore pressure | |
+| Feb. 5, 7, 9  | stress resolution | |
+| Feb. 12, 14, 16 | **Midterm Exam 1**, constitutive laws | |
+| Feb. 19, 21, 23 | constitutive laws | |
+| Feb. 26, 28, Mar. 2       | rock failure | |
+| Mar. 5, 7, 9     | rock failure | |
+| Mar. 12, 14, 16     | **Spring Break** | |
+| Mar. 19, 21, 23     | wellbore failure, stability, design | |
+| Mar. 26, 28, 30  | **Midterm Exam 2**, reservoir depletion | |
+| Apr. 2, 4, 6       | reservoir depletion | |
+| Apr. 9, 11, 13       | induced seismicity | |
+| Apr. 16, 18, 19    | hydraulic fracturing | |
+| Apr. 23, 25, 27    | hydraulic fracturing | |
+| May 30, 2, 4      | hydraulic fracturing | |
+| May. 15         | **Final Exam** | 9:00 - 12:00 AM |
 
 \
 
@@ -127,10 +127,10 @@ Below is a general outline of what I intend to cover in the course.  This is sub
 
 | Title       | Week |
 |-------------|-------------------------|
-|Experiment 1 | January 30 - February 3 |
-|Experiment 2 | February 13 -  17 |
-|Experiment 3| February 27 - March 3 |
-|Experiment 4| March 20 - 24 | 
+|Experiment 1 | January 29 - February 2 |
+|Experiment 2 | February 12 -  16 |
+|Experiment 3| February 26 - March 2 |
+|Experiment 4| March 19 - 23 | 
 
 \
 
