@@ -6,6 +6,8 @@
 
 This page provides a listing, in reverse chronological order, of course materials that are associated to each scheduled lecture period.  This may include PDFs of the final lecture notes, links to recorded lectures, and any other reference material.
 
+<!--
+
 **05-01-2017**
 
 [Lecture Notes](/files/05-01-2017.pdf)
@@ -257,5 +259,5 @@ This page provides a listing, in reverse chronological order, of course material
 
 <a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZHy8WW1KWjPwkIh4LIiBXPl" target="_blank">Lecture Recording</a>
 
-
+-->
 
