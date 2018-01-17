@@ -1,7 +1,7 @@
 <!--
 .. title: Welcome!
 .. slug: welcome
-.. date: 2018-01-17 08:00:00 UTC-05:00
+.. date: 2018-01-17 07:00:00 UTC-05:00
 .. tags: 
 .. link: 
 .. description: 
