@@ -44,7 +44,7 @@ TBD
 
 \
 
-**Course Website:** <https://utexas.instructure.com/courses/1192067> \
+**Course Website:** <https://utexas.instructure.com/courses/1219614> \
 
 
 **Course Description**: Basic stress and strain analysis; pore pressure and in situ stress estimation and measurement; deformation mechanisms in rock; rock fracture description and analysis; wellbore stresses and failure; wellbore stability analysis; fault stability analysis; depletion-induced reservoir deformation; and hydraulic fracturing. Emphasis on applications to petroleum engineering. \
