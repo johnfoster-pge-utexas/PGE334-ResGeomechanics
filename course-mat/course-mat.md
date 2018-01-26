@@ -251,11 +251,24 @@ This page provides a listing, in reverse chronological order, of course material
 
 <!--<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZEVQFR3F_8tYC22w6-fC3Do" target="_blank">Lecture Recording</a>-->
 
+**01-26-2018**
+
+<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture3-Linear_Algebra.slides.html#/0/9" target="_blank">Lecture 3 - Linear Algebra (cont.)</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture3-Linear_Algebra.slides.pdf" target="_blank">PDF</a>)
+
+<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture4-Introduction_to_Stress.slides.html#/0/9" target="_blank">Lecture 4 - Introduction to Stress</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture4-Introduction_to_Stress.slides.pdf" target="_blank">PDF</a>)
+
+
+**01-24-2018**
+
+<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture3-Linear_Algebra.slides.html#/0/6" target="_blank">Lecture 3 - Linear Algebra (cont.)</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture3-Linear_Algebra.slides.pdf" target="_blank">PDF</a>)
+
+
 **01-22-2018**
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture2-Introduction_Structural_Geology.slides.html" target="_blank">Lecture 2 - Introduction to Structural Geology</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture2-Introduction_Structural_Geology.slides.pdf" target="_blank">PDF</a>)
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture3-Linear_Algebra.slides.html" target="_blank">Lecture 3 - Linear Algebra</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture3-Linear_Algebra.slides.pdf" target="_blank">PDF</a>)
+
 
 **01-19-2018**
 
