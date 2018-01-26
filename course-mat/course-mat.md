@@ -255,7 +255,7 @@ This page provides a listing, in reverse chronological order, of course material
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture3-Linear_Algebra.slides.html#/0/9" target="_blank">Lecture 3 - Linear Algebra (cont.)</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture3-Linear_Algebra.slides.pdf" target="_blank">PDF</a>)
 
-<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture4-Introduction_to_Stress.slides.html#/0/9" target="_blank">Lecture 4 - Introduction to Stress</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture4-Introduction_to_Stress.slides.pdf" target="_blank">PDF</a>)
+<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture4-Introduction_to_Stress.slides.html" target="_blank">Lecture 4 - Introduction to Stress</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture4-Introduction_to_Stress.slides.pdf" target="_blank">PDF</a>)
 
 
 **01-24-2018**
