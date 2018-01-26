@@ -262,6 +262,8 @@ This page provides a listing, in reverse chronological order, of course material
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture3-Linear_Algebra.slides.html#/0/6" target="_blank">Lecture 3 - Linear Algebra (cont.)</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture3-Linear_Algebra.slides.pdf" target="_blank">PDF</a>)
 
+<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZFRYvAxorChMwvNb4-OF_x3" target="_blank">Lecture Recording</a>
+
 
 **01-22-2018**
 
@@ -269,11 +271,13 @@ This page provides a listing, in reverse chronological order, of course material
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture3-Linear_Algebra.slides.html" target="_blank">Lecture 3 - Linear Algebra</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture3-Linear_Algebra.slides.pdf" target="_blank">PDF</a>)
 
+<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZEAutt1fgDbxADA7JbLPt75" target="_blank">Lecture Recording</a>
+
 
 **01-19-2018**
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture1-Introduction_Petroleum_Geomechanics.slides.html" target="_blank">Lecture 1 - Introduction to Petroleum Geomechancis</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture1-Introduction_Petroleum_Geomechanics.slides.pdf" target="_blank">PDF</a>)
 
-<a href="//youtu.be/QhjRy06Ehyo" target="_blank">Lecture Recording</a>
+<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZFvLV7dEtseQp0FpME1Lgyw" target="_blank">Lecture Recording</a>
 
 
