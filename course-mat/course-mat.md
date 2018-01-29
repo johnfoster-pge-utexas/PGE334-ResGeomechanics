@@ -253,7 +253,7 @@ This page provides a listing, in reverse chronological order, of course material
 
 **01-29-2018**
 
-<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture5-PrincipleStressAndDirectionsInEarch.slides.html#/0/9" target="_blank">Lecture 5 - Principle Stress and Directions in the Earch</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/PrincipleStressAndDirectionsInEarch.slides.pdf" target="_blank">PDF</a>)
+<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture5-PrincipleStressAndDirectionsInEarth.slides.html#/0/9" target="_blank">Lecture 5 - Principle Stress and Directions in the Earth</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/PrincipleStressAndDirectionsInEarth.slides.pdf" target="_blank">PDF</a>)
 
 <!--<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZFBNlaH5Pg6kyZvIN0zx6xJ" target="_blank">Lecture Recording</a>-->
 
