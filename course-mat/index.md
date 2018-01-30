@@ -255,7 +255,7 @@ This page provides a listing, in reverse chronological order, of course material
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture5-PrincipleStressAndDirectionsInEarth.slides.html" target="_blank">Lecture 5 - Principle Stress and Directions in the Earth</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/PrincipleStressAndDirectionsInEarth.slides.pdf" target="_blank">PDF</a>)
 
-<!--<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZFBNlaH5Pg6kyZvIN0zx6xJ" target="_blank">Lecture Recording</a>-->
+<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZHNluqkHM_1u6ejowKHzUCf" target="_blank">Lecture Recording</a>
 
 **01-26-2018**
 
