@@ -12,7 +12,7 @@ This page provides a listing, in reverse chronological order, of course material
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture7-EstimatingVerticalStress.slides.html" target="_blank">Lecture 7 - Estimating Vertical Stress</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture7-EstimatingVerticalStress.slides.pdf" target="_blank">PDF</a>)
 
-<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture8-EffectiveStressAndStressMagnitudesAtDepth.slides.html" target="_blank">Lecture 8 -Effective Stress And Stress Magnitudes At Depth</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture8-EffectiveStressAndStressMagnitudesAtDepth.slides.pdf" target="_blank">PDF</a>)
+<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture8-EffectiveStressAndStressMagnitudesAtDepth.slides.html" target="_blank">Lecture 8 - Effective Stress And Stress Magnitudes At Depth</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture8-EffectiveStressAndStressMagnitudesAtDepth.slides.pdf" target="_blank">PDF</a>)
 
 <!--<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZHNluqkHM_1u6ejowKHzUCf" target="_blank">Lecture Recording</a>-->
 
