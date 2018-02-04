@@ -8,7 +8,7 @@ This page provides a listing, in reverse chronological order, of course material
 
 **02-02-2018**
 
-<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture9-MechanismsOfOverpressure.slides.html" target="_blank">Lecture9 - Mechanisms Of Overpressure</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture9-MechanismsOfOverpressure.slides.pdf" target="_blank">PDF</a>)
+<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture9-MechanismsOfOverpressure.slides.html" target="_blank">Lecture 9 - Mechanisms Of Overpressure</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture9-MechanismsOfOverpressure.slides.pdf" target="_blank">PDF</a>)
 
 <!--<a href="www.youtube.com/playlist?list=PL7Wioa6YOlZEOg_uhI-pxYujDtPl6-RuQ" target="_blank">Lecture Recording</a>-->
 
