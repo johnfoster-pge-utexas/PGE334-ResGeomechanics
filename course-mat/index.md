@@ -11,7 +11,7 @@ This page provides a listing, in reverse chronological order, of course material
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture10-FaultsAndFracturesAtDepth.slides.html" target="_blank">Lecture 10 - Faults and Fractures at Depth (cont.)</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture10-FaultsAndFracturesAtDepth.slides.pdf" target="_blank">PDF</a>)
 
-[Assignment 1](/files/assignment1-2018.pdf) (due February 14, 2018)
+[Assignment 1](/files/assignment1-2018.pdf) (due February 15, 2018)
 
 
 **02-05-2018**
