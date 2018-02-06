@@ -18,7 +18,7 @@ This page provides a listing, in reverse chronological order, of course material
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture10-FaultsAndFracturesAtDepth.slides.html" target="_blank">Lecture 10 - Faults and Fractures at Depth</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture10-FaultsAndFracturesAtDepth.slides.pdf" target="_blank">PDF</a>)
 
-<a href="www.youtube.com/playlist?list=PL7Wioa6YOlZELdzrqk6i4HmDbUDO9IzcD" target="_blank">Lecture Recording</a>
+<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZELdzrqk6i4HmDbUDO9IzcD" target="_blank">Lecture Recording</a>
 
 
 **02-02-2018**
