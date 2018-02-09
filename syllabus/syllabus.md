@@ -107,8 +107,8 @@ Below is a general outline of what I intend to cover in the course.  This is sub
 | Jan. 22, 24, 26 | tectonic stress, stress tensor  | |
 | Jan. 29, 31, Feb. 2    | principle stresses,  pore pressure | |
 | Feb. 5, 7, 9  | stress resolution | |
-| Feb. 12, 14, 16 | **Midterm Exam 1**, constitutive laws | |
-| Feb. 19, 21, 23 | constitutive laws | |
+| Feb. 12, 14, 16 | constitutive laws | |
+| Feb. 19, 21, 23 | **Midterm Exam 1, Feb. 19**, constitutive laws | |
 | Feb. 26, 28, Mar. 2       | rock failure | |
 | Mar. 5, 7, 9     | rock failure | |
 | Mar. 12, 14, 16     | **Spring Break** | |
@@ -127,10 +127,10 @@ Below is a general outline of what I intend to cover in the course.  This is sub
 
 | Title       | Week |
 |-------------|-------------------------|
-|Experiment 1 | January 29 - February 2 |
-|Experiment 2 | February 12 -  16 |
-|Experiment 3| February 26 - March 2 |
-|Experiment 4| March 19 - 23 | 
+|Experiment 1 | February 12-16 |
+|Experiment 2| February 26 - March 2 |
+|Experiment 3| March 19 - 23 | 
+|Experiment 4| April 5 - 9 | 
 
 \
 
