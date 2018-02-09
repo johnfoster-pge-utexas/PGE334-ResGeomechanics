@@ -6,6 +6,9 @@
 
 This page provides a listing, in reverse chronological order, of course materials that are associated to each scheduled lecture period.  This may include PDFs of the final lecture notes, links to recorded lectures, and any other reference material.
 
+**02-09-2018**
+
+<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture10-FaultsAndFracturesAtDepth.slides.html#/2" target="_blank">Lecture 10 - Faults and Fractures at Depth (cont.)</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture10-FaultsAndFracturesAtDepth.slides.pdf" target="_blank">PDF</a>)
 
 **02-07-2018**
 
