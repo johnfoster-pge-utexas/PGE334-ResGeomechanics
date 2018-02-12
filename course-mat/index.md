@@ -11,6 +11,8 @@ This page provides a listing, in reverse chronological order, of course material
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture10-FaultsAndFracturesAtDepth.slides.html#/4" target="_blank">Lecture 10 - Faults and Fractures at Depth (cont.)</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture10-FaultsAndFracturesAtDepth.slides.pdf" target="_blank">PDF</a>)
 
+<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture11-ConstitutiveModeling-Elasticity.slides.html" target="_blank">Lecture 11 - Constitutive Modeling - Elasticity </a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture11-ConstitutiveModeling-Elasticity.slides.pdf" target="_blank">PDF</a>)
+
 
 **02-09-2018**
 
