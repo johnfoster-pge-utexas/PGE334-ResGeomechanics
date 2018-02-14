@@ -11880,13 +11880,14 @@ a.anchor-link {
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h1 id="Strain-tensor">Strain tensor<a class="anchor-link" href="#Strain-tensor">&#182;</a></h1><p>${}$</p>
-$$
+<p>$$
 \boldsymbol{\varepsilon} = \begin{bmatrix}
       \varepsilon_{11} &amp; \varepsilon_{12} &amp; \varepsilon_{13} \\
       \varepsilon_{21} &amp; \varepsilon_{22} &amp; \varepsilon_{23} \\
       \varepsilon_{31} &amp; \varepsilon_{32} &amp; \varepsilon_{33}
       \end{bmatrix}
-$$
+$$</p>
+
 </div>
 </div>
 </div><div class="fragment">
@@ -11894,7 +11895,8 @@ $$
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-$$\varepsilon_{ij} = \frac{1}{2}\left( \frac{\partial u_i}{\partial x_j} +  \frac{\partial u_j}{\partial x_i}\right) \quad \mbox{for} \quad i=1,2,3 \quad j=1,2,3$$
+<p>$$\varepsilon_{ij} = \frac{1}{2}\left( \frac{\partial u_i}{\partial x_j} +  \frac{\partial u_j}{\partial x_i}\right) \quad \mbox{for} \quad i=1,2,3 \quad j=1,2,3$$</p>
+
 </div>
 </div>
 </div></div><div class="fragment">
@@ -11902,9 +11904,10 @@ $$\varepsilon_{ij} = \frac{1}{2}\left( \frac{\partial u_i}{\partial x_j} +  \fra
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Volumetric-strain">Volumetric strain<a class="anchor-link" href="#Volumetric-strain">&#182;</a></h2>$$
+<h2 id="Volumetric-strain">Volumetric strain<a class="anchor-link" href="#Volumetric-strain">&#182;</a></h2><p>$$
 \varepsilon_{vol} = \mbox{tr}(\boldsymbol{\varepsilon}) = \varepsilon_{11} + \varepsilon_{33} + \varepsilon_{33}
-$$
+$$</p>
+
 </div>
 </div>
 </div></div></section><section>
@@ -11912,7 +11915,11 @@ $$
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Material-constants-for-isotropic-materials">Material constants for isotropic materials<a class="anchor-link" href="#Material-constants-for-isotropic-materials">&#182;</a></h1><h3 id="Young's-modulus">Young's modulus<a class="anchor-link" href="#Young's-modulus">&#182;</a></h3>$$E = \frac{S_{11}}{\varepsilon_{vol}} = \frac{S_{11}}{\varepsilon_{11}}$$<h3 id="Bulk-modulus">Bulk modulus<a class="anchor-link" href="#Bulk-modulus">&#182;</a></h3>$$K = \frac{S_{11}+S_{22}+S_{33}}{3\varepsilon_{vol}}$$<h3 id="Shear-Modulus">Shear Modulus<a class="anchor-link" href="#Shear-Modulus">&#182;</a></h3>$$G = \frac{1}{2} \frac{S_{13}}{\varepsilon_{13}}$$<h3 id="Poisson's-ratio">Poisson's ratio<a class="anchor-link" href="#Poisson's-ratio">&#182;</a></h3>$$\nu = \frac{\varepsilon_{33}}{\varepsilon_{11}}$$
+<h1 id="Material-constants-for-isotropic-materials">Material constants for isotropic materials<a class="anchor-link" href="#Material-constants-for-isotropic-materials">&#182;</a></h1><h3 id="Young's-modulus">Young's modulus<a class="anchor-link" href="#Young's-modulus">&#182;</a></h3><p>$$E =  \frac{S_{11}}{\varepsilon_{11}}$$</p>
+<h3 id="Bulk-modulus">Bulk modulus<a class="anchor-link" href="#Bulk-modulus">&#182;</a></h3><p>$$K = \frac{S_{11}+S_{22}+S_{33}}{3\varepsilon_{vol}}$$</p>
+<h3 id="Shear-Modulus">Shear Modulus<a class="anchor-link" href="#Shear-Modulus">&#182;</a></h3><p>$$G = \frac{1}{2} \frac{S_{13}}{\varepsilon_{13}}$$</p>
+<h3 id="Poisson's-ratio">Poisson's ratio<a class="anchor-link" href="#Poisson's-ratio">&#182;</a></h3><p>$$\nu = \frac{\varepsilon_{33}}{\varepsilon_{11}}$$</p>
+
 </div>
 </div>
 </div></section><section>
@@ -11953,7 +11960,8 @@ $$
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h1 id="Generalized-Hooke's-law">Generalized Hooke's law<a class="anchor-link" href="#Generalized-Hooke's-law">&#182;</a></h1><p>${}$</p>
-$$\vec{\sigma} = \boldsymbol{C}  \, \vec{\varepsilon}$$
+<p>$$\vec{\sigma} = \boldsymbol{C}  \, \vec{\varepsilon}$$</p>
+
 </div>
 </div>
 </div><div class="fragment">
@@ -11961,7 +11969,7 @@ $$\vec{\sigma} = \boldsymbol{C}  \, \vec{\varepsilon}$$
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="For-isotropic-materials">For isotropic materials<a class="anchor-link" href="#For-isotropic-materials">&#182;</a></h3>\begin{equation}
+<h3 id="For-isotropic-materials">For isotropic materials<a class="anchor-link" href="#For-isotropic-materials">&#182;</a></h3><p>\begin{equation}
 \small
 \left\lbrace\begin{matrix} \sigma_{11} \\ \sigma_{22} \\ \sigma_{33} \\ \sigma_{12} \\ \sigma_{13} \\ \sigma_{23} \end{matrix}\right\rbrace = \frac{E}{(1+\nu)(1-2\nu)}
 \begin{bmatrix}
@@ -11973,15 +11981,7 @@ $$\vec{\sigma} = \boldsymbol{C}  \, \vec{\varepsilon}$$
 0 &amp; 0 &amp; 0 &amp; 0 &amp; 0 &amp; \frac{1}{2}(1 - 2 \nu)
 \end{bmatrix}
 \left\lbrace\begin{matrix} \varepsilon_{11} \\ \varepsilon_{22} \\ \varepsilon_{33} \\ 2\varepsilon_{12} \\ 2\varepsilon_{13} \\ 2\varepsilon_{23} \end{matrix}\right\rbrace
-\end{equation}
-</div>
-</div>
-</div></div><div class="fragment">
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div>
-<div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-$$\mathbf{S} = K \varepsilon_{vol} \mathbf{I} + 2 G \left(\boldsymbol{\varepsilon} - \frac{1}{3} \varepsilon_{vol}\mathbf{I}\right)$$$$G = \frac{E}{2(1+\nu)} \Rightarrow \mbox{shear modulus}$$<p></p>
+\end{equation}</p>
 
 </div>
 </div>
@@ -11990,7 +11990,19 @@ $$\mathbf{S} = K \varepsilon_{vol} \mathbf{I} + 2 G \left(\boldsymbol{\varepsilo
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-$$\mathbf{S} = \lambda \varepsilon_{vol} \mathbf{I} + 2 G \boldsymbol{\varepsilon} $$$$\lambda = K - \frac{2}{3} G \Rightarrow \text{Lamé's constant}$$
+<p>$$\mathbf{S} = K \varepsilon_{vol} \mathbf{I} + 2 G \left(\boldsymbol{\varepsilon} - \frac{1}{3} \varepsilon_{vol}\mathbf{I}\right)$$</p>
+<p>$$G = \frac{E}{2(1+\nu)} \Rightarrow \mbox{shear modulus}$$</p>
+
+</div>
+</div>
+</div></div><div class="fragment">
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>$$\mathbf{S} = \lambda \varepsilon_{vol} \mathbf{I} + 2 G \boldsymbol{\varepsilon} $$</p>
+<p>$$\lambda = K - \frac{2}{3} G \Rightarrow \text{Lamé's constant}$$</p>
+
 </div>
 </div>
 </div></div></section><section>
@@ -12151,7 +12163,8 @@ $$\mathbf{S} = \lambda \varepsilon_{vol} \mathbf{I} + 2 G \boldsymbol{\varepsilo
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Siesmic-wave-velocity">Siesmic wave velocity<a class="anchor-link" href="#Siesmic-wave-velocity">&#182;</a></h1>$$V_p = \sqrt{\frac{M}{\rho}}, \quad \quad V_s = \sqrt{\frac{G}{\rho}}$$
+<h1 id="Siesmic-wave-velocity">Siesmic wave velocity<a class="anchor-link" href="#Siesmic-wave-velocity">&#182;</a></h1><p>$$V_p = \sqrt{\frac{M}{\rho}}, \quad \quad V_s = \sqrt{\frac{G}{\rho}}$$</p>
+
 </div>
 </div>
 </div></section></section>
