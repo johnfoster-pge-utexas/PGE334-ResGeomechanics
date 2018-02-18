@@ -6,6 +6,10 @@
 
 This page provides a listing, in reverse chronological order, of course materials that are associated to each scheduled lecture period.  This may include PDFs of the final lecture notes, links to recorded lectures, and any other reference material.
 
+**02-18-2018**
+
+[Homework 1 Solution](http://nbviewer.jupyter.org/github/johnfoster-pge-utexas/PGE334-ResGeomechanics/blob/master/files/assignment1_solution-2018.ipynb)
+
 **02-14-2018**
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture11-ConstitutiveModeling-Elasticity.slides.html" target="_blank">Lecture 11 - Constitutive Modeling - Elasticity (cont.)</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture11-ConstitutiveModeling-Elasticity.slides.pdf" target="_blank">PDF</a>)
