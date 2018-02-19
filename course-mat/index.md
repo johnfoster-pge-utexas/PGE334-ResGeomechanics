@@ -31,7 +31,7 @@ This page provides a listing, in reverse chronological order, of course material
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture10-FaultsAndFracturesAtDepth.slides.html" target="_blank">Lecture 10 - Faults and Fractures at Depth (cont.)</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture10-FaultsAndFracturesAtDepth.slides.pdf" target="_blank">PDF</a>)
 
-**Interactive Widget:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/johntfoster/rotation_widget/master?filepath=rotation_widget-rise.ipynb)
+**Interactive Widget:** <a href="https://mybinder.org/v2/gh/johntfoster/rotation_widget/master?filepath=rotation_widget-rise.ipynb" target="_blank"><img src="https://mybinder.org/badge.svg" alt="Launch Binder"></a>
 
 <a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZH-xwlyRU8rHyMzcg0nb6GK" target="_blank">Lecture Recording</a>
 
