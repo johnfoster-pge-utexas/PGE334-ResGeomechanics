@@ -6,6 +6,18 @@
 
 This page provides a listing, in reverse chronological order, of course materials that are associated to each scheduled lecture period.  This may include PDFs of the final lecture notes, links to recorded lectures, and any other reference material.
 
+**03-02-2018**
+
+<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture13-ConstitutiveModeling-InelasticBehavoir.slides.html" target="_blank">Lecture 13 - Constitutive Modeling - Inelastic Behavoir</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture13-ConstitutiveModeling-InelasticBehavoir.slides.pdf" target="_blank">PDF</a>)
+
+<!--<a href="" target="_blank">Lecture Recording</a>-->
+
+**02-28-2018**
+
+<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture12-ConstitutiveModeling-Poroelasticity.slides.html" target="_blank">Lecture 12 - Constitutive Modeling - Poroelasticity (cont.)</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture12-ConstitutiveModeling-Poroelasticity.slides.pdf" target="_blank">PDF</a>)
+
+<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZG9XnZKXFL2gAh3T_-EuCgu" target="_blank">Lecture Recording</a>
+
 **02-26-2018**
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture11-ConstitutiveModeling-Elasticity.slides.html#1/3" target="_blank">Lecture 11 - Constitutive Modeling - Elasticity (cont.)</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture11-ConstitutiveModeling-Elasticity.slides.pdf" target="_blank">PDF</a>)
@@ -120,5 +132,6 @@ This page provides a listing, in reverse chronological order, of course material
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture1-Introduction_Petroleum_Geomechanics.slides.html" target="_blank">Lecture 1 - Introduction to Petroleum Geomechanics</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture1-Introduction_Petroleum_Geomechanics.slides.pdf" target="_blank">PDF</a>)
 
 <a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZFvLV7dEtseQp0FpME1Lgyw" target="_blank">Lecture Recording</a>
+
 
 
