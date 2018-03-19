@@ -10,8 +10,6 @@ This page provides a listing, in reverse chronological order, of course material
 
 [Assignment 2](/files/assignment2-2018.pdf) (due March 25, 2018)
 
-**03-09-2018**
-
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture14-TensileStrengthAndCriticallyStressedCrust.slides.html" target="_blank">Lecture 14 - Tensile Strength And Critically Stressed Crust</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture14-TensileStrengthAndCriticallyStressedCrust.slides.pdf" target="_blank">PDF</a>)
 
 **03-07-2018**
