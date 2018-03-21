@@ -6,6 +6,11 @@
 
 This page provides a listing, in reverse chronological order, of course materials that are associated to each scheduled lecture period.  This may include PDFs of the final lecture notes, links to recorded lectures, and any other reference material.
 
+**03-91-2018**
+
+
+<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture15-CompressiveAndTensileFailureInVerticalWells.slides.html" target="_blank">Lecture 15 - Compressive And Tensile Failure In Vertical Wells</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture15-CompressiveAndTensileFailureInVerticalWells.slides.pdf" target="_blank">PDF</a>)
+
 **03-19-2018**
 
 [Assignment 2](/files/assignment2-2018.pdf) (due March 28, 2018)
@@ -146,6 +151,3 @@ This page provides a listing, in reverse chronological order, of course material
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture1-Introduction_Petroleum_Geomechanics.slides.html" target="_blank">Lecture 1 - Introduction to Petroleum Geomechanics</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture1-Introduction_Petroleum_Geomechanics.slides.pdf" target="_blank">PDF</a>)
 
 <a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZFvLV7dEtseQp0FpME1Lgyw" target="_blank">Lecture Recording</a>
-
-
-
