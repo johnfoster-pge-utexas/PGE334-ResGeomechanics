@@ -6,8 +6,11 @@
 
 This page provides a listing, in reverse chronological order, of course materials that are associated to each scheduled lecture period.  This may include PDFs of the final lecture notes, links to recorded lectures, and any other reference material.
 
-**03-91-2018**
+**03-26-2018**
 
+<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture16-StressResolutionInDeviatedWells.slides.html" target="_blank">Lecture16 - Stress Resolution In Deviated Wells</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture16-StressResolutionInDeviatedWells.slides.pdf" target="_blank">PDF</a>)
+
+**03-19-2018**
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture15-CompressiveAndTensileFailureInVerticalWells.slides.html" target="_blank">Lecture 15 - Compressive And Tensile Failure In Vertical Wells</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture15-CompressiveAndTensileFailureInVerticalWells.slides.pdf" target="_blank">PDF</a>)
 
