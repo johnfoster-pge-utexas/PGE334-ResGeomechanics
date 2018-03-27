@@ -28,6 +28,8 @@ This page provides a listing, in reverse chronological order, of course material
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture13-ConstitutiveModeling-InelasticBehavoir.slides.html#/1" target="_blank">Lecture 13 - Constitutive Modeling - Inelastic Behavoir (cont.)</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture13-ConstitutiveModeling-InelasticBehavoir.slides.pdf" target="_blank">PDF</a>)
 
+<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZHkxjEDTqDrG4OlA4cIfD8q" target="_blank">Lecture Recording</a>
+
 **03-02-2018**
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture13-ConstitutiveModeling-InelasticBehavoir.slides.html" target="_blank">Lecture 13 - Constitutive Modeling - Inelastic Behavoir</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture13-ConstitutiveModeling-InelasticBehavoir.slides.pdf" target="_blank">PDF</a>)
