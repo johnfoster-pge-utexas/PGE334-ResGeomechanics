@@ -10,11 +10,13 @@ This page provides a listing, in reverse chronological order, of course material
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture16-StressResolutionInDeviatedWells.slides.html" target="_blank">Lecture16 - Stress Resolution In Deviated Wells</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture16-StressResolutionInDeviatedWells.slides.pdf" target="_blank">PDF</a>)
 
+<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZGei6S6LTAjwU2um2gVozRG" target="_blank">Lecture Recording</a>
+
 **03-23-2018**
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture15-CompressiveAndTensileFailureInVerticalWells.slides.html" target="_blank">Lecture 15 - Compressive And Tensile Failure In Vertical Wells (cont.)</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture15-CompressiveAndTensileFailureInVerticalWells.slides.pdf" target="_blank">PDF</a>)
 
-<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZERulCj2xJOjODpGW0qmS3D"" target="_blank">Lecture Recording</a>
+<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZERulCj2xJOjODpGW0qmS3D" target="_blank">Lecture Recording</a>
 
 **03-21-2018**
 
