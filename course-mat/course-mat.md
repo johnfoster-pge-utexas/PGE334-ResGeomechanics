@@ -6,6 +6,10 @@
 
 This page provides a listing, in reverse chronological order, of course materials that are associated to each scheduled lecture period.  This may include PDFs of the final lecture notes, links to recorded lectures, and any other reference material.
 
+**03-30-2018**
+
+<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture17-DiagnosticTestingToDetermineInSituStress.slides.html" target="_blank">slides/Lecture 17 - Diagnostic Testing To Determine In Situ Stress</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture17-DiagnosticTestingToDetermineInSituStress.slides.html" target="_blank">PDF</a>)
+
 **03-28-2018**
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture16-StressResolutionInDeviatedWells.slides.html" target="_blank">Lecture16 - Stress Resolution In Deviated Wells (cont.)</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture16-StressResolutionInDeviatedWells.slides.pdf" target="_blank">PDF</a>)
@@ -172,3 +176,4 @@ This page provides a listing, in reverse chronological order, of course material
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture1-Introduction_Petroleum_Geomechanics.slides.html" target="_blank">Lecture 1 - Introduction to Petroleum Geomechanics</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture1-Introduction_Petroleum_Geomechanics.slides.pdf" target="_blank">PDF</a>)
 
 <a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZFvLV7dEtseQp0FpME1Lgyw" target="_blank">Lecture Recording</a>
+
