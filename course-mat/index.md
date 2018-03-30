@@ -10,6 +10,8 @@ This page provides a listing, in reverse chronological order, of course material
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture16-StressResolutionInDeviatedWells.slides.html" target="_blank">Lecture16 - Stress Resolution In Deviated Wells (cont.)</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture16-StressResolutionInDeviatedWells.slides.pdf" target="_blank">PDF</a>)
 
+<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZEOMUlZzGtp-KATJR2asyEo" target="_blank">Lecture Recording</a>
+
 [Assignment 3](/files/assignment3-2018.pdf) (due April 2, 2018)
 
 **03-26-2018**
