@@ -12,6 +12,8 @@ This page provides a listing, in reverse chronological order, of course material
 
 [Homework 2 Solution](http://nbviewer.jupyter.org/github/johnfoster-pge-utexas/PGE334-ResGeomechanics/blob/master/files/assignment2_solution-2018.ipynb)
 
+[Homework 3 Solution](http://nbviewer.jupyter.org/github/johnfoster-pge-utexas/PGE334-ResGeomechanics/blob/master/files/assignment3-2018_solution.ipynb)
+
 **03-30-2018**
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture17-DiagnosticTestingToDetermineInSituStress.slides.html" target="_blank">Lecture 17 - Diagnostic Testing To Determine In Situ Stress</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture17-DiagnosticTestingToDetermineInSituStress.slides.pdf" target="_blank">PDF</a>)
