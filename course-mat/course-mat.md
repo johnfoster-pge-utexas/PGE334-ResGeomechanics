@@ -6,9 +6,15 @@
 
 This page provides a listing, in reverse chronological order, of course materials that are associated to each scheduled lecture period.  This may include PDFs of the final lecture notes, links to recorded lectures, and any other reference material.
 
+**04-02-2018**
+
+<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZEq8oLiDYns1z5kIrdiEq2J" target="_blank">Lecture Recording</a>
+
+[Homework 2 Solution](http://nbviewer.jupyter.org/github/johnfoster-pge-utexas/PGE334-ResGeomechanics/blob/master/files/assignment2_solution-2018.ipynb)
+
 **03-30-2018**
 
-<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture17-DiagnosticTestingToDetermineInSituStress.slides.html" target="_blank">Lecture 17 - Diagnostic Testing To Determine In Situ Stress</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture17-DiagnosticTestingToDetermineInSituStress.slides.html" target="_blank">PDF</a>)
+<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture17-DiagnosticTestingToDetermineInSituStress.slides.html" target="_blank">Lecture 17 - Diagnostic Testing To Determine In Situ Stress</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture17-DiagnosticTestingToDetermineInSituStress.slides.pdf" target="_blank">PDF</a>)
 
 <a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZG8IEFloip-v1tFeVF1mJwz" target="_blank">Lecture Recording</a>
 
