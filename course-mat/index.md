@@ -6,11 +6,13 @@
 
 This page provides a listing, in reverse chronological order, of course materials that are associated to each scheduled lecture period.  This may include PDFs of the final lecture notes, links to recorded lectures, and any other reference material.
 
-**04-04-2018**
+**04-07-2018**
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture18-GeomechanicalCaseStudy.slides.html" target="_blank">Lecture 18 - Geomechanical Case Study</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture18-GeomechanicalCaseStudy.slides.pdf" target="_blank">PDF</a>)
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture19-SandProduction.slides.html" target="_blank">Lecture 19 - Sand Production</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture19-SandProduction.slides.pdf" target="_blank">PDF</a>)
+
+<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZEMIRkIe_3m_xlJ3GUumPYD" target="_blank">Lecture Recording</a>
 
 **04-04-2018**
 
