@@ -6,6 +6,14 @@
 
 This page provides a listing, in reverse chronological order, of course materials that are associated to each scheduled lecture period.  This may include PDFs of the final lecture notes, links to recorded lectures, and any other reference material.
 
+**04-18-2018**
+
+<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture21-HydrualicFracturingOverviewAndImpact.slides.html" target="_blank">Lecture 21 - Hydrualic Fracturing Overview and Impact</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture21-HydrualicFracturingOverviewAndImpact.slides.pdf" target="_blank">PDF</a>)
+
+**04-16-2018**
+
+<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture20-ReservoirDepletion.slides.html" target="_blank">Lecture 20 - Reservoir Depletion</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture20-ReservoirDepletion.slides.pdf" target="_blank">PDF</a>)
+
 **04-13-2018**
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture20-ReservoirDepletion.slides.html" target="_blank">Lecture 20 - Reservoir Depletion</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture20-ReservoirDepletion.slides.pdf" target="_blank">PDF</a>)
