@@ -6,9 +6,40 @@
 
 This page provides a listing, in reverse chronological order, of course materials that are associated to each scheduled lecture period.  This may include PDFs of the final lecture notes, links to recorded lectures, and any other reference material.
 
+**05-02-2018**
+
+<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZGU9bDaea1WqAsACZzggIhY" target="_blank">Lecture Recording</a>
+
+**04-30-2018**
+
+<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZFb4riMyCXc36C76yehM7mO" target="_blank">Lecture Recording</a>
+
+**04-27-2018**
+
+<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZF3Yst4GsYBf2sJEQsyRRpe" target="_blank">Lecture Recording</a>
+
+**04-25-2018**
+
+<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZHD0U14ole1Ng9Aru77BqVD" target="_blank">Lecture Recording</a>
+
+**04-25-2018**
+
+<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZHD0U14ole1Ng9Aru77BqVD" target="_blank">Lecture Recording</a>
+
+
+**04-23-2018**
+
+<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZGF9N2OwA9KcAIe_M583ELe" target="_blank">Lecture Recording</a>
+
+**04-20-2018**
+
+<a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZGjAjsnTFez6f6GPMhN-EeP" target="_blank">Lecture Recording</a>
+
 **04-18-2018**
 
 <a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture21-HydrualicFracturingOverviewAndImpact.slides.html" target="_blank">Lecture 21 - Hydrualic Fracturing Overview and Impact</a> (<a href="http://johnfoster.pge.utexas.edu/PGE334-ResGeomechanics/slides/Lecture21-HydrualicFracturingOverviewAndImpact.slides.pdf" target="_blank">PDF</a>)
+
+<a href="//youtu.be/gy80PHWebM0" target="_blank">Lecture Recording</a>
 
 **04-16-2018**
 
