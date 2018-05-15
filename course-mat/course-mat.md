@@ -35,7 +35,7 @@ This page provides a listing, in reverse chronological order, of course material
 
 <a href="//www.youtube.com/playlist?list=PL7Wioa6YOlZGjAjsnTFez6f6GPMhN-EeP" target="_blank">Lecture Recording - Elementary Fracture Mechanics</a>
 
-[/files/4-11-2016.pdf](Lecture Notes)
+[Lecture Notes](/files/4-11-2016.pdf)
 
 **04-18-2018**
 
